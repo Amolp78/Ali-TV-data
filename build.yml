@@ -1,0 +1,92 @@
+name: Ali TV APK Builder
+
+on:
+  push:
+    branches: [main, master]
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Setup Java
+        uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: '21'
+
+      - name: Locate project or extract uploaded ZIP
+        shell: bash
+        run: |
+          set -e
+          if [ ! -f package.json ]; then
+            ZIP_FILE=$(find . -maxdepth 3 -type f -iname '*.zip' -not -path './.git/*' | head -n 1)
+            if [ -z "$ZIP_FILE" ]; then
+              echo "::error::No project ZIP found."
+              exit 1
+            fi
+            mkdir -p _project
+            unzip -oq "$ZIP_FILE" -d _project
+            PROJECT_PACKAGE=$(find _project -type f -name package.json | head -n 1)
+            if [ -z "$PROJECT_PACKAGE" ]; then
+              echo "::error::The ZIP does not contain package.json."
+              exit 1
+            fi
+            PROJECT_DIR=$(dirname "$PROJECT_PACKAGE")
+          else
+            PROJECT_DIR="."
+          fi
+          echo "PROJECT_DIR=$PROJECT_DIR" >> "$GITHUB_ENV"
+          echo "Using project directory: $PROJECT_DIR"
+
+      - name: Verify brand images
+        run: |
+          test -s "$PROJECT_DIR/www/img/logo.png"
+          test -s "$PROJECT_DIR/assets/icon-only.png"
+          test -s "$PROJECT_DIR/assets/splash.png"
+
+      - name: Install dependencies
+        run: |
+          cd "$PROJECT_DIR"
+          npm install
+
+      - name: Generate Android project
+        run: |
+          cd "$PROJECT_DIR"
+          if [ ! -d android ]; then npx cap add android; fi
+
+      - name: Generate Android launcher icon and splash assets
+        run: |
+          cd "$PROJECT_DIR"
+          npx capacitor-assets generate --android
+
+      - name: Allow HTTP streams
+        run: |
+          MANIFEST="$PROJECT_DIR/android/app/src/main/AndroidManifest.xml"
+          sed -i 's/<application/<application android:usesCleartextTraffic="true"/' "$MANIFEST"
+
+      - name: Sync Capacitor assets
+        run: |
+          cd "$PROJECT_DIR"
+          npx cap sync android
+
+      - name: Build debug APK
+        run: |
+          cd "$PROJECT_DIR/android"
+          chmod +x gradlew
+          ./gradlew assembleDebug --no-daemon
+
+      - name: Upload APK
+        uses: actions/upload-artifact@v4
+        with:
+          name: Ali-TV-APK-with-logo
+          path: ${{ env.PROJECT_DIR }}/android/app/build/outputs/apk/debug/*.apk
+          if-no-files-found: error
