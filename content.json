@@ -1,1 +1,470 @@
-0
+{
+ "v": 1,
+ "kid": "6f052632",
+ "updated": "2026-11-12T08:51:31+00:00",
+ "categories": [
+  {
+   "id": "live_364",
+   "name": "ALWAN ",
+   "icon": "fa-tv"
+  },
+  {
+   "id": "live_272",
+   "name": "BeIn 4K",
+   "icon": "fa-tv"
+  }
+ ],
+ "matchSlides": [],
+ "channels": [
+  {
+   "id": "c0",
+   "name": "BEIN 4K",
+   "logo": "https://static.wikia.nocookie.net/logo-chaines/images/7/75/BEIN_4K.png/revision/latest?cb=20190818174249&path-prefix=fr",
+   "category": "live_272",
+   "quality": "HD",
+   "type": "live",
+   "u": "yg-7sQmpaW_2WzeGoRcCf59dQH4Q3uIIznER7UZ4h8VhMZag4kfC0MKnbyzJZC43pAh2EZdr-gX7r_C1K6PqNPNjZR6cSGMUP06-1aqhgkD8i01c3xuQlzzpk_RNziU"
+  },
+  {
+   "id": "c1",
+   "name": "S-beIN Sports Global",
+   "logo": "https://assets.bein.com/mena/sites/3/2015/06/bein_SPORTS_FTA_DIGITAL_Mono.png",
+   "category": "live_272",
+   "quality": "HD",
+   "type": "live",
+   "u": "Kn2ReMa6gz3xsqTn-ASSfWnt-T-4YygVHMBOsD96502aOtaQl7SvQ8td9wS8JXjJP6SWQUDlQXFgS7_KCbeudzev69v214EW_KvqrL5LxwfPMPMpZeY_rlXMUUy0sug"
+  },
+  {
+   "id": "c2",
+   "name": "S-beIN Sports News",
+   "logo": "https://assets.bein.com/mena/sites/3/2015/06/NEWS_DIGITAL_Mono.png",
+   "category": "live_272",
+   "quality": "HD",
+   "type": "live",
+   "u": "KKUT-t6M1eDTWlEsx2dc6geR09GEajwgjdL2pxhzLS3kYdvaetMJlMOE6vmvrxRjRAkdMyNz5DteQgt-0wFnqjrk8iGIoIMn_9c4UiW1CpP8FDWypqiy_H-LuhHUDQI"
+  },
+  {
+   "id": "c3",
+   "name": "BeIn Backup 1",
+   "logo": "https://assets.bein.com/mena/sites/3/2015/06/bein_SPORTS_FTA_DIGITAL_Mono.png",
+   "category": "live_272",
+   "quality": "HD",
+   "type": "live",
+   "u": "Jrr0e3ha7SF4w8ILTdwBzAAOhvZB-FkXompxL5f6OVXvHMOYRNGoBtPLiReMqpF6JvggXYvGBES5cSpr71CZtFitSqSHfhhHI_9BsHCM3lyKV_KgVt3_fW-LIhEwoC8"
+  },
+  {
+   "id": "c4",
+   "name": "BeIn Backup 2",
+   "logo": "https://assets.bein.com/mena/sites/3/2015/06/bein_SPORTS_FTA_DIGITAL_Mono.png",
+   "category": "live_272",
+   "quality": "HD",
+   "type": "live",
+   "u": "VzZoH-L8_tgHgXvrb9yqzfMw_gNKr2546wNFZbfT00hTjrhweaotOGEyn0_2o2sKnlNKcDG5e_IaNdoiKMvYyuVl4YTmBfDnuNtBuXfW-RBVrvSyzayUW-CtRylWv7I"
+  },
+  {
+   "id": "c5",
+   "name": "BeIn Backup 3",
+   "logo": "https://assets.bein.com/mena/sites/3/2015/06/bein_SPORTS_FTA_DIGITAL_Mono.png",
+   "category": "live_272",
+   "quality": "HD",
+   "type": "live",
+   "u": "akxIpU9hc23_AMCK2NA3yNIWxsPHRVl7_-Jq1RsUQSqpKm7-mDPZS0SKdzOy5ZnSVKkrD-NeoV_uha8moWos_yYjhPIJQt6QYZ3OHY7qmhif_vEz3DNiUB4y2ZxvfVU"
+  },
+  {
+   "id": "c6",
+   "name": "BeIn Backup 4",
+   "logo": "https://assets.bein.com/mena/sites/3/2015/06/bein_SPORTS_FTA_DIGITAL_Mono.png",
+   "category": "live_272",
+   "quality": "HD",
+   "type": "live",
+   "u": "flgvSJ51k3EGcZn5r3Va1eTOE1X0RXkHN7STuhn7egndzUjQ9fE42e5z_p0rhku_of1ZKn1CrshHCEJ68FM7A6qAbzQ8tpZ6YbuwsGo-zjq1WYAGT8_0BJCJB5RAWn8"
+  },
+  {
+   "id": "c7",
+   "name": "BeIn Backup 5",
+   "logo": "https://assets.bein.com/mena/sites/3/2015/06/bein_SPORTS_FTA_DIGITAL_Mono.png",
+   "category": "live_272",
+   "quality": "HD",
+   "type": "live",
+   "u": "7EwdGRuClYnZ3q4sv-th1DVDYy6AjwyRV_RdJs_Ab3RDFTAB5hcXfT-d2jBs3ZjHmDNBCENkV3rUsGAUxR9GRCFW3bpe_IXm4QFt7vNYSRf_GDsAtfoiqAYSev2Uv2k"
+  },
+  {
+   "id": "c8",
+   "name": "BeIn Backup 6",
+   "logo": "https://assets.bein.com/mena/sites/3/2015/06/bein_SPORTS_FTA_DIGITAL_Mono.png",
+   "category": "live_272",
+   "quality": "HD",
+   "type": "live",
+   "u": "-9a8RB6mfePoJOFljZ2h0RI8f6X5DMxtKeYqtfdUCKRAYbsk5d-1aT1vRDY6Cm3chKczqzzrVU0LY2IWsRmfimc_aX05sLEU33Ba0YTvrJFLD6jc9ZVgQBKNywnEMTU"
+  },
+  {
+   "id": "c9",
+   "name": "BeIn Backup 7",
+   "logo": "https://assets.bein.com/mena/sites/3/2015/06/bein_SPORTS_FTA_DIGITAL_Mono.png",
+   "category": "live_272",
+   "quality": "HD",
+   "type": "live",
+   "u": "6M7JZwN8E0J6XP_QHa2pKZ7ILkV2LLz0jc36iF_eeOIedFRcbsThJhqHg9bZDCers72PcsT32KWvSxR0P_J_EcgQRKWjHl8sS0WqnbKcFiqml0JabncCxbWAeRBJOSM"
+  },
+  {
+   "id": "c10",
+   "name": "SOLO 4k",
+   "logo": "",
+   "category": "live_272",
+   "quality": "HD",
+   "type": "live",
+   "u": "i9rHveQVoVbMUblaQQIbjYmdQoItSS6g4ldAV51DTtnjRinCgyD9AQxi3MWW9tcuLwjPN3U8127RqE2Hrj-EYk9h9HWQ3P-iJ0iaGBeS-GGFuPA-fukYJtBDKNhtwts"
+  },
+  {
+   "id": "c11",
+   "name": "SOLO 1 4k",
+   "logo": "",
+   "category": "live_272",
+   "quality": "HD",
+   "type": "live",
+   "u": "bc5O928ZTGdmfZqR108_C8AqXpcuy1nqKVXebriepJp80JV5FD7u9rdoqgZ0AwdwrLH0BmYoeWmgXKXE_qmjV2p1vFFfD7FLf3ZC5rWjGgkx4H_w7aQ-6QVs8-bkhOw"
+  },
+  {
+   "id": "c12",
+   "name": "SOLO 2 4k",
+   "logo": "",
+   "category": "live_272",
+   "quality": "HD",
+   "type": "live",
+   "u": "2RDXnt9RbHEzU_LkLtdUZAxQyqI3H5FqPXMxokiwSAcPJTH0Rgq6EVMkWZBWisZ_OANUcfixYQwrDtquQkbnSAex_iKxWrmDbJY6Q9rDqdICgbQLcuUf7RLnsmxTjU0"
+  },
+  {
+   "id": "c13",
+   "name": "SOLO 3 4k",
+   "logo": "",
+   "category": "live_272",
+   "quality": "HD",
+   "type": "live",
+   "u": "-OFkXzceAUNJADQkFwPNxzoyhy5Z9Af-sHa57hicnWf0cM2JsMDQmkWp744JOSII4IHQ2Y8vHKzx9AIE5CK7oHFE-b7moT85klcK6gwpT_CbobR1MegDs9oF6wDiW5Q"
+  },
+  {
+   "id": "c14",
+   "name": "SOLO 4 4k",
+   "logo": "",
+   "category": "live_272",
+   "quality": "HD",
+   "type": "live",
+   "u": "7YN2Qb3BRlM-ZKAYPh3eZ51mSsRe2OfhqHQWa_wkV3aY0xRskICsZGnO484kzjI7Uz8xkdm8voy1VeUXfOuAqqhRly-die800RRLxJ1bROmBArFRJ8DDnsBjqEvLTyM"
+  },
+  {
+   "id": "c15",
+   "name": "SOLO 5 4k",
+   "logo": "",
+   "category": "live_272",
+   "quality": "HD",
+   "type": "live",
+   "u": "Nr97vWx36tSLuSJ5n2ol44QsfwDcs7oAM0GOVE1YtCDDyFkqXnF5u0JwX5IhEBpOVGQuRJnCCgc52oa3izxbeuxRs6N-3ZVBRl_nek9W210RgSQMPvE2uxy1rHcW-SQ"
+  },
+  {
+   "id": "c16",
+   "name": "S-beIN Sport 1 4K",
+   "logo": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_DIGITAL_Mono.png",
+   "category": "live_272",
+   "quality": "HD",
+   "type": "live",
+   "u": "UB29LoZdESk_W3OZCFzlBGAuUshBuCTyZku4p-Fw4yeYYDsKJeMJX8gB5cvHjEz3N9_lvG-7yistTdGH-BZxYaTtVFWUVYTD8BIbl95-T5hJSbEaxg4cYACDujBoW30"
+  },
+  {
+   "id": "c17",
+   "name": "S-beIN Sport 2 4K",
+   "logo": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_DIGITAL_Mono.png",
+   "category": "live_272",
+   "quality": "HD",
+   "type": "live",
+   "u": "u-YoXLxD3hRsW5JsnRV5ZkTquphmhgBcB4UX3ji7wwBJngRdCVKw68RQqnf6Ens1o0-fTjMtOLsWWuM-shlyNskaqJC1sWfUbXdOdZBEv9IxMdVKPuNVCyzFLRTWggw"
+  },
+  {
+   "id": "c18",
+   "name": "S-beIN Sport 3 4K",
+   "logo": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_DIGITAL_Mono.png",
+   "category": "live_272",
+   "quality": "HD",
+   "type": "live",
+   "u": "7W87OwdWVtePNK-JvqRbsEAmogOcOMAzOSxffLsXS-u5Jvdzp_5-KofwyBl9HSUzbDsYQYSPEDG2uIHXGe8WAJNPHgmocoGrZTlq_MJrHPfecGCbc1jTGPuwPo7rYZM"
+  },
+  {
+   "id": "c19",
+   "name": "S-beIN Sport 4 4K",
+   "logo": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS4_DIGITAL_Mono.png",
+   "category": "live_272",
+   "quality": "HD",
+   "type": "live",
+   "u": "KD4c2xeSa_6jmCex23ezx-qf2axQ7uGWhT5vLphOUWJ9PuID4fWryqEwAci7TFZdKvbQwLLr2A-hn4R0ZCmYe90Upb-pOZEr6cAMk1xvnMKKfSXx0QhRyuhKD7gFHVE"
+  },
+  {
+   "id": "c20",
+   "name": "S-beIN Sport 5 4K",
+   "logo": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS5_DIGITAL_Mono.png",
+   "category": "live_272",
+   "quality": "HD",
+   "type": "live",
+   "u": "OQfF0ffrK5pdbH_zO3tGajUdRbaFEnAFRobs0JRWRf1XvzN2gVb7D3DDXL4MJkGkk5u8Zr5GRnwnxLClKfZ1nbu9T3rv8Sngp15im0S1rNQ0hfE5FxZxaTa2_5t06d8"
+  },
+  {
+   "id": "c21",
+   "name": "S-beIN Sport 6 4K",
+   "logo": "https://assets.bein.com/mena/sites/3/2021/02/beIN_SPORTS66_DIGITAL_Mono-01.png",
+   "category": "live_272",
+   "quality": "HD",
+   "type": "live",
+   "u": "f0bfO3DsDXp3cI6c3runl132Oqq3rnJwrDq6VYJfZ0NpNEHkysXNYWfyBdbHIMjFEl2cuttGirdy5nnVKPosHDnOmJHShEhsm2V9OK-sjS9E3og9kiGOC1qY4BN8hqs"
+  },
+  {
+   "id": "c22",
+   "name": "S-beIN Sport 7 4K",
+   "logo": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS7_DIGITAL_Mono.png",
+   "category": "live_272",
+   "quality": "HD",
+   "type": "live",
+   "u": "p2qi7fDdunj8PYPPz1yL18LedIZxWnnWT3rw19zi_xoa7O0fQyWZPlUcXmbXoiQNRCsgtDOD7qXeX2KYyJqoRttgt27OPykP8H9hNhD3kFY3id6BCm6EjnN7HGBmbVg"
+  },
+  {
+   "id": "c23",
+   "name": "S-beIN Sport 8 4K",
+   "logo": "https://assets.bein.com/mena/sites/3/2023/09/logos-_beINSPORTS8.png",
+   "category": "live_272",
+   "quality": "HD",
+   "type": "live",
+   "u": "Wt1psyaVwEpe0kgRPiN0YBq-pVlhyyfEi43uaxTSh4PB8wc8aLTKIMNDyqvN57wE_TXg8pxhRnG39OipISuHlNsWt9Cu8pmeQBMoQG5YFj324zGFIoXkcEr_3B2p2Xk"
+  },
+  {
+   "id": "c24",
+   "name": "S-beIN Sport 9 4K",
+   "logo": "https://assets.bein.com/mena/sites/3/2023/09/logos-_beINSPORTS9.png",
+   "category": "live_272",
+   "quality": "HD",
+   "type": "live",
+   "u": "QrLV599hl-WDiPgiFBPS4RyGKkzpygdYHxxf6a1IC_Y-a7CQi_-q-CTxS_d8TbCXxxLb-A9jT-4gw1nQZvCgRrPPB4RlDqFuzF9mVb2lGGWEmigHkNBRO0BeK3kA_P8"
+  },
+  {
+   "id": "c25",
+   "name": "S-beIN Sport English 1 4K",
+   "logo": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_ENGLISH_Digital_Mono.png",
+   "category": "live_272",
+   "quality": "HD",
+   "type": "live",
+   "u": "5RlyEP-V4YKyyL8tuHoxoMK4FTkyMHt1PsE3YSRLSYSyM3UbWJQL_ohk1ahdoTcT_gKqnuF6orH2LUiJ-Gcful_7K9t5p4XkTKm37L9BeRm3xD1lEYpf2ZpjEqZhhcA"
+  },
+  {
+   "id": "c26",
+   "name": "S-beIN Sport English 2 4K",
+   "logo": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_ENGLISH_Digital_Mono.png",
+   "category": "live_272",
+   "quality": "HD",
+   "type": "live",
+   "u": "8fQ14cvaqR_cC_6jbD5FsN-CLuQoP6ZGF8ZbkiVxaArNNojsqC7iQgx6zNLu9PJWtz97mp_L862wnDjynQGg4Pb2Eq0bQhS-q5Hd4Z5ZFmG27fyfGnAt5335Hv3wgfg"
+  },
+  {
+   "id": "c27",
+   "name": "S-beIN Sport French 1 4K",
+   "logo": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_FRENCH_Digital_Mono.png",
+   "category": "live_272",
+   "quality": "HD",
+   "type": "live",
+   "u": "cS6Fa6MPs8s62OyiLacdw3QeMtpVU74fWZWkxzVOS4V8atlClTJBFAKJC4PddPYh3RMzIrhkOi7dHf7DjA9Lqahtf67XGT5KLolRgs2V5O5iSGWveghzb7s1kII4CA8"
+  },
+  {
+   "id": "c28",
+   "name": "S-beIN Sport French 2 4K",
+   "logo": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_FRENCH_Digital_Mono.png",
+   "category": "live_272",
+   "quality": "HD",
+   "type": "live",
+   "u": "-q7HwvVq2DcmDUVO1AXCiDpH8-F-jjHCLOmJPG1kOhlYeMDT6Xf7wgK9kDWr21e3vX-8GmmE8K1CFdNow8hCiStAorkQ002G_6YZD_UtmwTcyLaxnJbF2j2nFeJVcOY"
+  },
+  {
+   "id": "c29",
+   "name": "S-beIN Sport French 2 4K",
+   "logo": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_FRENCH_Digital_Mono.png",
+   "category": "live_272",
+   "quality": "HD",
+   "type": "live",
+   "u": "_m_upANf3HjUuQkrOBV4BNNb85Fwdyee46CFdwLLALfrzKkCGqmBgYpPNA0StkodrqBvMZNxFk9W81uLLCMqL3ZetSPygFQkGpvBUwenmeF15U8W8gKu0QM7nyisHWM"
+  },
+  {
+   "id": "c30",
+   "name": "S-beIN Sport XTRA 1 4K",
+   "logo": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS_XTRA1_Digital_Mono.png",
+   "category": "live_272",
+   "quality": "HD",
+   "type": "live",
+   "u": "QhIDAoEOsja28QfgqAkgcLewPNQTAiA8L0jIkBIQ1iuaDuZEQCwz4qp0Et1JW_u_Lx4pLlmWXudQwevJggb6bjvl32a4aXW33PtmeW633VoOl8Zuusrb-iHRT_xrJbM"
+  },
+  {
+   "id": "c31",
+   "name": "S-beIN Sport XTRA 2 4K",
+   "logo": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS_XTRA2_Digital_Mono.png",
+   "category": "live_272",
+   "quality": "HD",
+   "type": "live",
+   "u": "RhdMePdEVKwwaeknvZ8nvvF21pAI9FMIEt746UnOzA7qiUkfeKUPzvgQEaoqTbqQQdxTojkR8cTrZ8TMAoMno-XpOKYFJ9JjvIOsSEtpulyMjrPPzqTMEOAohF97u8M"
+  },
+  {
+   "id": "c32",
+   "name": "S-beIN Sport XTRA 3 4K",
+   "logo": "https://assets.bein.com/mena/sites/3/2023/09/logos-_beINSPORTSXTRA3.png",
+   "category": "live_272",
+   "quality": "HD",
+   "type": "live",
+   "u": "CQ3QqNlzO8Z1UpcmWxy3i2JA-Q4qFL0LyKLOgAAXrs6MWhpIfxI6ifRde0xaPI3sWTg05M2yMiAhzsI6g1ob5xYCRm4pMD02B39TnNAdlWLqgF7mD9yV_6GTu326O2c"
+  },
+  {
+   "id": "c33",
+   "name": "S-beIN Sport FR 2 4K",
+   "logo": "https://upload.wikimedia.org/wikipedia/commons/a/ad/BeIN_SPORTS_France_logo_2017.jpg",
+   "category": "live_272",
+   "quality": "HD",
+   "type": "live",
+   "u": "xQy9V8xVFMgiFWVcbavwGEuZK_vsTUTEUAe_Qi2H9sWKlMAvUU_4-ZD_Bc1R-2dDDffvnBgBKbntAgjQUL2A8PJ2BnbbN1MFH01AD6QLHZd1sJGtjmWQ82ZhTj3244o"
+  },
+  {
+   "id": "c34",
+   "name": "S-beIN Sport FR 1 4K",
+   "logo": "https://upload.wikimedia.org/wikipedia/commons/a/ad/BeIN_SPORTS_France_logo_2017.jpg",
+   "category": "live_272",
+   "quality": "HD",
+   "type": "live",
+   "u": "aPEd44urOWTNw1of_iG7kD8r1vMtniVaSShuhEa__naa-1UfOB90Ou1Q96KxcrVy0cE3N3Q-6bDjZ2FYpOc8g-DjMxyYZ1Axcyn-ZgmuoVlCf05E4SyoD6TZMoJNK1w"
+  },
+  {
+   "id": "c35",
+   "name": "S-beIN Sport NBA 4K",
+   "logo": "https://static.wikia.nocookie.net/logopedia/images/d/d3/BeIN_Sports_NBA_2017.svg/revision/latest/scale-to-width-down/200?cb=20200105100944",
+   "category": "live_272",
+   "quality": "HD",
+   "type": "live",
+   "u": "WImAsmTmLDLtsq5Mt_gZPTdveurxkKCG8KiR3zs8zpMssnxTj6OB-yOCBBypYelYnrRH98EcPIFsunw5PTqmZMlWt4YFNcDppEJsxsO9y_ElUrHlnphkrSwq1ZW6Yfo"
+  },
+  {
+   "id": "c36",
+   "name": "Alwan Aflam 1 4K",
+   "logo": "",
+   "category": "live_364",
+   "quality": "HD",
+   "type": "live",
+   "u": "6SgazBhrAZaaYcY9Q5CJXPCXUmiHnecquo6-qE43jpjuo8el7vRuf2pkxPvjTF3oFGTTywKrLyMhwjOq2mHJk8GyoKOr8CzCwUn5BlTepNvTtbMosCSkWiG5bxGxzJc"
+  },
+  {
+   "id": "c37",
+   "name": "Alwan Aflam 2 4K",
+   "logo": "",
+   "category": "live_364",
+   "quality": "HD",
+   "type": "live",
+   "u": "LyQZB8Q5GPNPehpp90eTfD_o-WqICHzIH1qewm0c5DMSu0MuetlLJwH-Hk8APdy7-L-Lx1U_3jQyGRHWA45HQMZkhDPbfcnnjjb8uJXL9IeaerwWQ-VwvccOWYCX1xg"
+  },
+  {
+   "id": "c38",
+   "name": "Alwan Aflam 3 4K",
+   "logo": "",
+   "category": "live_364",
+   "quality": "HD",
+   "type": "live",
+   "u": "ege2L7WyVQ8Ytt6LGeooYaIsrvLaTVjmANs5v3g5EaaZaJfbQ9YyZXXgLYXs5kxCuKhqPRicGGhupP-H_lZyxcRT3QuD6eZ_3pGrZMMoaDlKSDSxdf4bkmZ4kdROBrs"
+  },
+  {
+   "id": "c39",
+   "name": "Alwan Aflam 4 4K",
+   "logo": "",
+   "category": "live_364",
+   "quality": "HD",
+   "type": "live",
+   "u": "rcKtpdgXFpHQlDqV9C88mBCrKsUSwU5scIpM0V3KGnb8pw6ItnWaMQZRhjw_mHiLjMb-ibsTvLfFUyrISEWsZCsWv3dG6-KUh03xbAgHT-OjtkVx_zjz2k8tfRj98SI"
+  },
+  {
+   "id": "c40",
+   "name": "Alwan Aghani 4K",
+   "logo": "",
+   "category": "live_364",
+   "quality": "HD",
+   "type": "live",
+   "u": "tBmqfCm5DWMvY2b9oVpPEIb4Af-x4RFD_06ksUCtaAf9d9hsLY6pbYV5J-Ld4AUh9CTO7ibjZCHtxSOpsoHJdV4c-1_m3ZylanQ94NpBkW2JEtGo8YRekuGlYACyVC8"
+  },
+  {
+   "id": "c41",
+   "name": "Alwan Alwathaeqye 4K",
+   "logo": "",
+   "category": "live_364",
+   "quality": "HD",
+   "type": "live",
+   "u": "TUGZB6SARe037Ry34-P71SDOtlpszJCLSROqkKOZ7WXsKZ7VNlu7dNvSsTv_M0NnDJAz5qyB8vLVVAww7oR1HmnruKg-0JyUFWEuzOKdSuH0aYhEg34I8XVx8tpg5kU"
+  },
+  {
+   "id": "c42",
+   "name": "Alwan Anime 4K",
+   "logo": "",
+   "category": "live_364",
+   "quality": "HD",
+   "type": "live",
+   "u": "8G-yBU7860jNWncbV2NcbohzPDw8UeN0WkazGPgG6FvuZptNAzY81t_0BukY5Rl01xbv2NWbPcRX1wu4reB6ife1XllDPGtWTZR-K9pFvStUyJjleE52lIMnk8x9VQQ"
+  },
+  {
+   "id": "c43",
+   "name": "Alwan Atfal 4K",
+   "logo": "",
+   "category": "live_364",
+   "quality": "HD",
+   "type": "live",
+   "u": "jWF51yenIhn8V1OXPou52lb-InVP7Bp-xrfxm5BjKMFONiZxbtNKYAuLJKWHFJv-ljX_ioqfrxGvkr3YCDiapNcHtiJbDt6aG5bameAoqWWVlo5dDc4PawQK1T-ymQ0"
+  },
+  {
+   "id": "c44",
+   "name": "Alwan Bollywood 4K",
+   "logo": "",
+   "category": "live_364",
+   "quality": "HD",
+   "type": "live",
+   "u": "QJ58dPWR-pJOZeaallIvj3AzU80g8fH5sQH-udVPzwe9_WCxJAyEa7x-zvJiXbJCUwH2UY_E_nj6U3HZorrMbdgZ-K7HK7iXtQZRL9fiD-C-zoEQBn---YPcSyZ_1Bw"
+  },
+  {
+   "id": "c45",
+   "name": "Alwan Korea 4K",
+   "logo": "",
+   "category": "live_364",
+   "quality": "HD",
+   "type": "live",
+   "u": "oG4Aet5jBCVPjJH1ciNyGYh67oTNRfDJdE01ngigCe_2lbjqN8xi_0eCrBLxHAk2kAOFKfImXaTs3p5FxrNpuetZSi-yz9kifCcZtLmbdPD4-m-Rvzdk6ehCEnZSNpg"
+  },
+  {
+   "id": "c46",
+   "name": "Alwan Mosalsalat 4K",
+   "logo": "",
+   "category": "live_364",
+   "quality": "HD",
+   "type": "live",
+   "u": "B0RhyW-A1LX5UEXlpC7zyszofDdjGQDO8p_4gSwJADW0KwzaGvmgaro8foHBVf4GwGQHYr7aBGtGYbvoQxbtu_P_XEwWCl17M1Bzh4REHx0061ve9wioC7bFcsvniQs"
+  },
+  {
+   "id": "c47",
+   "name": "Alwan Mosalsalat+ 4K",
+   "logo": "",
+   "category": "live_364",
+   "quality": "HD",
+   "type": "live",
+   "u": "arS-PT3X4R6A3b469Y3nP9xnwkJIZ4HrznNF0B4lG1nZfvntEZK-73lgh2jvykUbatqT20piQPKf-zPA9xTp4q3TpgK9eRqHVD3FVHadBT20lAhyAFDn4tGBkHeP85g"
+  },
+  {
+   "id": "c48",
+   "name": "Alwan Quran 4K",
+   "logo": "",
+   "category": "live_364",
+   "quality": "HD",
+   "type": "live",
+   "u": "6TK91v5XefVoY75sb8AAkD-1a2eU6cU3ZPP2wTQJmnk0VR5FaiHJNkJPG1ByjUOo8JoSqEDzmgM_W5WO_EUtNlXj1Ww47zkQl54cjCnOE9qWg4IbyxnjKAvKl5UdjWM"
+  },
+  {
+   "id": "c49",
+   "name": "Alwan Turkey 4K",
+   "logo": "",
+   "category": "live_364",
+   "quality": "HD",
+   "type": "live",
+   "u": "EVgGPJIFcZ8spOa0fVJs3wxGJGwSCW2iHQH-UXOD8oggxya3wsxmLHBzfgGXNJyydu9zETtuRUfABwdUQL1fowo8ewQo6HMqrVYLU__nLveE6rkz_pcAxR6AU2aI9oc"
+  }
+ ]
+} 
