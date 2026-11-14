@@ -1,706 +1,765 @@
 {
   "v": 1,
+  "updated": "2026-11-14T16:10:06+00:00",
   "kid": "6f052632",
-  "updated": "2026-11-14T00:00:00+00:00",
-  "categories": [
-    {
-      "id": "s1_live_1968",
-      "name": "AR| BEIN SPORTS HD SD • اشتراك 1",
-      "icon": "fa-tv"
-    },
-    {
-      "id": "s1_live_30",
-      "name": "AR| BEIN SPORTS HD • اشتراك 1",
-      "icon": "fa-tv"
-    },
-    {
-      "id": "s1_live_717",
-      "name": "AR| BEIN SPORTS SD • اشتراك 1",
-      "icon": "fa-tv"
-    },
-    {
-      "id": "s1_live_62",
-      "name": "AR| BEIN SPORTS FHD • اشتراك 1",
-      "icon": "fa-tv"
-    },
-    {
-      "id": "s1_live_1984",
-      "name": "AR| AlWAN SPORTS   الوان الرياضية • اشتراك 1",
-      "icon": "fa-tv"
-    }
-  ],
+  "categories": [],
   "matchSlides": [],
   "channels": [
     {
       "id": "c0",
-      "name": "AR| beIN SPORTS",
-      "logo": "https://www.cafonline.com/media/sa4cpure/afcon2025_logo_land_color-v1.png",
-      "category": "s1_live_1968",
+      "name": "##### BEIN SPORTS HEVC #####",
+      "logo": "http://103.176.90.154/picons/logos/bein/1294788.png",
+      "category": "live_34",
+      "quality": "HD",
       "type": "live",
-      "variants": [
-        {
-          "quality": "HD",
-          "u": "qMzM3nJY-dVb-OMXPo3OOzYR9P19sI0yTPTHzpFX2QA783XS5msIPvnKeJHSQ5q4tEpVQujnAa24h2mct9z4DMORKLiBEOTdkImgUEVfhJA2jdY0-SxNy8h4JSokx2Y"
-        },
-        {
-          "quality": "HD",
-          "u": "e2H8WkSq8BTdEOjk7-rxMuCBnCdK5UYelN1WrlYZOKkaix5Zgibz0G-TDHfmk0y6KEtgBhh-sqd-sy0iwigD4_SDVw80JFsQ04DguY2nvevY4xGb-rn4xUjKPD3qev0"
-        }
-      ]
+      "u": "geU1wCG5J-Q8zUER3EGmQptZD5l1bj7mg-lDQrrckBoXLMtvVlEoujPjwAolXYBm3XM5PWTGyCo7Npo-F_abu9JyhhIFo2VNvzi-TD62FXMbQ5jNU6l-iCFiXr4TIWIJcvh50No"
+    },
+    {
+      "id": "c1",
+      "name": "AR| BEIN SPORTS 1 HEVC",
+      "logo": "http://103.176.90.154/picons/logos/bein/1330433.png",
+      "category": "live_34",
+      "quality": "HD",
+      "type": "live",
+      "u": "uyxZ33m_Gfh2TAu8fFPfItAouamFKluT17AD4-0J6lbF3QQpu4ZSPbikqcSOhgv1q_2_IOIno1DsZ5IRVp7S_J7NVe5JGn7mWF-XyH89nPb3aB6EUmCoEP5SY6W-jywB7HEytnY"
     },
     {
       "id": "c2",
-      "name": "beIN SPORTS",
-      "logo": "",
-      "category": "s1_live_30",
+      "name": "AR| BEIN SPORTS 2 HEVC",
+      "logo": "http://103.176.90.154/picons/logos/bein/1330432.png",
+      "category": "live_34",
+      "quality": "HD",
       "type": "live",
-      "variants": [
-        {
-          "quality": "HD",
-          "u": "p6cn2OXvM4mEIJsbgxjCun47CV_MogldikCDkPrkXUxhyMkcs89RTRYBHsxc704XGXpB3RUpachU689WKgiAJMbYAHEf6F0mohJXQnKlo87hqWe_7dwLY_JKDFGiYjk"
-        },
-        {
-          "quality": "FHD",
-          "u": "4Rw7NmIRrx2NCZ9hnqzoDCFbNS8O-fZroGc8OGMgyqvgYSQhkzIN_GEIX3cq3m6T6DWFgXQK_hSGVlWxV9goLY7LssDQjW_1bXG8PGwrY00Kd8xwAyueLSj7uB8r"
-        }
-      ]
+      "u": "hjp4hbUEGwAFPuvy0JVh3TEc__4qeVpGt5bikqIAy0BInpgA-H2FaBh8U_Z4EURgwKblGq_0Yuu6OMfKH1kIV3iwOGhFx9YnTEWgs578racu_NjexAoa-N_QYVSsaCnRP41E8Qo"
     },
     {
       "id": "c3",
-      "name": "beIN SPORTS NEWS",
-      "logo": "http://kinglogo.newtvhd.com/logoo/BEIN4K/HD/bein%20sports%20news%20hd.png",
-      "category": "s1_live_30",
+      "name": "AR| BEIN SPORTS 3 HEVC",
+      "logo": "http://103.176.90.154/picons/logos/bein/1330431.png",
+      "category": "live_34",
+      "quality": "HD",
       "type": "live",
-      "variants": [
-        {
-          "quality": "HD",
-          "u": "3w9Hl2KRG74bC-XJ1_fNB-wOv9SVyg1xRHy2CHjb6c7U2OHdvti6eyO3738AYPTZct90XIYfmEZXfdfcEb8hjqYeh-nWdRXPDmgBTx6ajqj_uZyPeS1cup7-bp6E6so"
-        }
-      ]
+      "u": "PBC7jwjo6zMYbKLP3cprJePdJdCQGqUuB3QYUsuAgAuP-6sINkhWVplg0XVzs1QGd5jIIqSKW95GtVSHlEVE_KJPZ5-_viuAipfgYMP4Tb6QF7zcTMiKmPqEe5muMyqi5o-epm0"
+    },
+    {
+      "id": "c4",
+      "name": "AR| BEIN SPORTS 4 HEVC",
+      "logo": "http://103.176.90.154/picons/logos/bein/1330430.png",
+      "category": "live_34",
+      "quality": "HD",
+      "type": "live",
+      "u": "HklvMwDemuesMLdxtf8Hpbg7cjXTGYFrJyaBc3VH4Ghw7aHiyC9Stkg1hqwVDMK344p-vEPULWUEkCXjtroplP5EtxX2pNJ4YeUb4J7xMW8ibGun3uqH2hgLjo5qr7B-68O8B0U"
     },
     {
       "id": "c5",
-      "name": "beIN SPORTS 1",
-      "logo": "http://kinglogo.newtvhd.com/logoo/BEIN4K/HD/bein%20sports%20premium%201%20HD.png",
-      "category": "s1_live_30",
+      "name": "AR| BEIN SPORTS 5 HEVC",
+      "logo": "http://103.176.90.154/picons/logos/bein/1330429.png",
+      "category": "live_34",
+      "quality": "HD",
       "type": "live",
-      "variants": [
-        {
-          "quality": "HD",
-          "u": "mFnEMxQLgH9cns-PJ4hNsMtJrjrfw15QjTktzM8HpRqdnUtAPnDZWivrEB4T4mGw0CkvJ1CMuASt8HifqBB4I5LR2Z3unvx2M3x_Mcx65W17Etzx5x_I0vUObILU"
-        },
-        {
-          "quality": "HD",
-          "u": "SToky-C4fyxV1s482X3t7tDnPmFp2CN00-fUrIVfktgAYRZmsHAWAz737GvQytNGV7FPOqTlknUfrLn7oSpAmWRLq72ZrGgAXRbzZQbwVDY1IuN6tcNxtfKUvS_motg"
-        },
-        {
-          "quality": "SD",
-          "u": "tPGGwM9aE-mFksPuJx6XjRLLN_fs30oLOndR3ty9uvmrw60bKY49ZQyNMsQlet_aHYwUsGORiM3FtsaZV2zGoFIrTjYzTGVE7hsZaCT1tSArbsBNOoqZvASBk5EirCQ"
-        },
-        {
-          "quality": "FHD",
-          "u": "Wt2Am5TpFh0EFf1z6MNx6WBmhP5MqGcey-svf16uKxxtBPV6EsOcUe9vfQ19mFuWv8cMn1fI-bsufvqJeHgwP2iT2UKl6HQ3tIUvvhkw5iR4-8etLsMI5tZMNxk-"
-        }
-      ]
+      "u": "xtnPIa_I6hxQGD0zJeA2PFo2hdY4KrAOBV6K2C4YMyCwUaOBsLCuW9pBEghccqr1H3vCi0RV8K2zYjr5fOJBirox65b_F8tZx_mY7M2fRtUBl0QhoOZk6EjIzssjLeOUI-JT6ag"
+    },
+    {
+      "id": "c6",
+      "name": "AR| BEIN SPORTS 6 HEVC",
+      "logo": "http://103.176.90.154/picons/logos/bein/1330428.png",
+      "category": "live_34",
+      "quality": "HD",
+      "type": "live",
+      "u": "PVf_AhTi9DCm3fKOaemph4rOSINFQPoEWHkoeh9AMI3WhCG5xhdEj-UWW5UmFNTe2BVTu0Am8B9PDfE6oCv3kuQwI7ldIScb4GiKkgCBHKsZN8Rzw9geZvzkdY7PuXpWrR5QE1w"
     },
     {
       "id": "c7",
-      "name": "beIN SPORTS 2",
-      "logo": "http://kinglogo.newtvhd.com/logoo/BEIN4K/HD/bein%20sports%20premium%202%20HD.png",
-      "category": "s1_live_30",
+      "name": "AR| BEIN SPORTS 7 HEVC",
+      "logo": "http://103.176.90.154/picons/logos/bein/1330427.png",
+      "category": "live_34",
+      "quality": "HD",
       "type": "live",
-      "variants": [
-        {
-          "quality": "HD",
-          "u": "T1GXAUPYAZr0dlszd1cNer7KJGXHvZhxK1vIYMyaPsn_lEHMXwKshrUbEj_2nDS8SKDlIKHq9YGFkDGgQWb1fRVvhW6Lbj7JOmBG18SoSTUmgCYTNtnsE8VDf59d"
-        },
-        {
-          "quality": "HD",
-          "u": "YT0cVXOowSPU9oNTjXJJYdMOcZqTc1OR1Pue03Gj53q0QhlT_QX2__ca1en1pDVWl4-KZ-ee8UNQA9U6hV5pI6cFv49s8ItmBXd2UFuPlaJzzwwFzQVSSk7y08NSkRg"
-        },
-        {
-          "quality": "SD",
-          "u": "uhDkatWuCHpgzhK4fj-vLNghtYX3b0pxwGZx3eb6EvcojKCo0ONaawBP7bYXLmmVmRJ_FzrMxqvsAc1z2bJqFDdXW9rEJmVPT0HLWcLPx6weBGhUCw6K7xiAEl5cRIE"
-        },
-        {
-          "quality": "FHD",
-          "u": "jkCx_Qmu6JThV1ohpU8iM_Bl4Tes23ZiGLQlp_XWh61oFoUP1alyOcaFXWhPMNnOPRKWQCYq7DMRBnqaN9sXY2fkzfe_myuwdRFqFm_ulGYPIYOMIxvsPib3KJZJ0wQ"
-        }
-      ]
+      "u": "urzLUhdgvpsKDELOkqj6cTUhxt05HspRNhTSb6Un-vWxxwHBN3KqJbn9HdP_hUiYpdoN1S6z7iGMQrbXEyUbyB3Fp6_qFI3_mL9e_8v5hNBYt-bhcSlp4uZtDcrI1SO6jAeMMyo"
+    },
+    {
+      "id": "c8",
+      "name": "AR| BEIN SPORTS 8 HEVC",
+      "logo": "http://103.176.90.154/picons/logos/bein/1330426.png",
+      "category": "live_34",
+      "quality": "HD",
+      "type": "live",
+      "u": "NLLCDaXIaojH2zZ3xDEVbONFi2UgfK4Iox3eecuxXNx7_IncqrQbE0ViuxUtWWQ0qL-qJ9Vgeuuj4DJnWUQJQYWImvM_kafBUouA9e1JaEuIvoF3t13oNaPi5tfOegFl6ojCuEc"
     },
     {
       "id": "c9",
-      "name": "beIN SPORTS 3",
-      "logo": "http://kinglogo.newtvhd.com/logoo/BEIN4K/HD/bein%20sports%20premium%203%20HD.png",
-      "category": "s1_live_30",
+      "name": "AR| BEIN SPORTS 9 HEVC",
+      "logo": "http://103.176.90.154/picons/logos/bein/1330425.png",
+      "category": "live_34",
+      "quality": "HD",
       "type": "live",
-      "variants": [
-        {
-          "quality": "HD",
-          "u": "6XCUkfnlw7isELK3yJz9tVRIr7xT_ZwZmtPoN20rgnB8fzuFmp-NI-i_HJuPeYj6QU4fnqE9Dmvps7LZxq5M0E_EC6k6J60gLy641R32ncaqAMcn9otUkrwFMMwm"
-        },
-        {
-          "quality": "HD",
-          "u": "_PDpo2KXuYLhiXyC4d0Xid_3x42O6ypIkmC1j6-qBg111UnQW9GiJmUkgBu11gYmxJygCeqv5HJQuFnJ2OjjqnN7quMSYP6vCE0A7tcyavry2g-x3CvNcayt2VDZZr4"
-        },
-        {
-          "quality": "SD",
-          "u": "RM7OouR_1aRjzKJ61D52lGiAPvuuP2NL8jV46iEUf_9WAfVndzQCtIqwbuiZjatyJDvkShdXbu2J6W488DFdw9x4-17qwLxKfGi25REeMlIU5piTivXaFTGkQ3av-oI"
-        },
-        {
-          "quality": "FHD",
-          "u": "i_VGnaIxytAqjPHulOUi_KhFzbriQYS8vvvpLbo0z4eG0T4sl1_xPH9xGPzXDF-1R7dBe50d9jxkt2l8S2uRV4xMweihsW-7yGDgJ-KlwuLDLSAmkg1EPWqhhEj2"
-        }
-      ]
+      "u": "b-nGCzb36CWW246utT_hcjn16DlKlyZreXEYupFKNj90Tp229vCzmfY3YYx46e-eskBxbF-_y1UFJE7Ngto-UUzqVme3c0HqF555NjSCN3q7IXbruDGr-wSh8Cy5B_81LMMjXyU"
+    },
+    {
+      "id": "c10",
+      "name": "AR| BEIN SPORTS 1 XTRA HEVC",
+      "logo": "http://103.176.90.154/picons/logos/bein/1330424.png",
+      "category": "live_34",
+      "quality": "HD",
+      "type": "live",
+      "u": "gitR0GAqtRwRa9NUHfps-EhzNcqw-TjvPrY9mcGWlRxn_pbyi86wRHFl8kPHUnPcFY2-H-vj9Yr3wzL29ZTpo0xxtFHoJ1uPS6OlqMGu7Chmy2GOW18VnLS8Vn4r7c7XdWeDn_I"
     },
     {
       "id": "c11",
-      "name": "beIN SPORTS 4",
-      "logo": "http://kinglogo.newtvhd.com/logoo/BEIN4K/HD/bein%20sports%201%20HD.png",
-      "category": "s1_live_30",
+      "name": "AR| BEIN SPORTS 2 XTRA HEVC",
+      "logo": "http://103.176.90.154/picons/logos/bein/1330423.png",
+      "category": "live_34",
+      "quality": "HD",
       "type": "live",
-      "variants": [
-        {
-          "quality": "HD",
-          "u": "k-ijE-wM2L5AQOrNzNqIMfWwq_N8aQocL6gZISPuHDMFDM7dSI22YUcEaZyCVX6LhkYsy_yEFf-iPJtgN4_3XNj5LtZcLeTvobKGtA5x7os8a8hJR-fCMPTOYEOh"
-        },
-        {
-          "quality": "HD",
-          "u": "RiISMvFUyNG17o2bDGBzNm1gvJTOXnYcWt32urAxoa7bxKrRNeL_KyW1mdBWVsd-DwrDr9yffmT1zjW8nJ-GBYmhaVQNDdUqAHZg90fOUX8d9lKFVQNwATBv4kbq"
-        },
-        {
-          "quality": "SD",
-          "u": "nkaYumYE1Q_r0IioItZOuXGs8ebUq6fRmg16rETRhHPYwRFCyxxaDUSCFdV08teJY8znSn5xLzaXivDNsA5gSCA9dVv8DRCYuMpJnBn5XfjlDVkJTMmpmo25zF-pnQI"
-        },
-        {
-          "quality": "FHD",
-          "u": "ETpbpkuM0aXKX8IqRsUKSLsY2sNf3MD8ZN-IK48wYYNN3K9qb8hqKH0BYgy99pZMmNzx3imJew6wuFfB-BczCYgi9AzlYqtTuyKkufycjLZaoJ6Rdy5dl0zbJbFD"
-        }
-      ]
+      "u": "CE8poL9mz-gpXUTEPyaiozFk0JyqZs61Lk4Sp8EkvD3YAFljWD2DMPhj6MmHWO6Z9RO1rUe3j0CuRw-KqQiTG52Oxx8srAUvpC_gojI774zNE33gZ6z1EOTmBtHds0jVLc8hUuE"
+    },
+    {
+      "id": "c12",
+      "name": "AR| BEIN SPORTS 3 XTRA HEVC",
+      "logo": "http://103.176.90.154/picons/logos/bein/1330422.png",
+      "category": "live_34",
+      "quality": "HD",
+      "type": "live",
+      "u": "UTV0FLWBF_KFOzbFxN4wyb8hF0WZeNamEpduR_dZiGzgSkkDn71oYAeK7wlmWo1FYMx8B9Ui6hlG1mNbELbvpN30v78oBV_LAc7Rz40K62uss3RGkcdxbqTPaho9bxOemsOX_fA"
     },
     {
       "id": "c13",
-      "name": "beIN SPORTS 5",
-      "logo": "http://kinglogo.newtvhd.com/logoo/BEIN4K/HD/bein%20sports%203%20HD.png",
-      "category": "s1_live_30",
+      "name": "AR| BEIN SPORTS 1 ENGLISH HEVC",
+      "logo": "http://103.176.90.154/picons/logos/bein/1330421.png",
+      "category": "live_34",
+      "quality": "HD",
       "type": "live",
-      "variants": [
-        {
-          "quality": "HD",
-          "u": "zdk2V8eXARDuGF6IQEXV_4Ixu_IMoWpcDaFQ7BqoFknUnO-zfjc52iyuDI4MjZLQe7Q4tui98B9lgUU7K8gRf6OWWtHtsjbE2rdSng-9pw-XAPAjIg_3X2XtgfiJ"
-        },
-        {
-          "quality": "HD",
-          "u": "tH5gCV7qV4EqViCxf-IUFhyfXRzN4momRe59o2EIL_jH7O4fvKqiIh9sGuAmtezM9BheRSJkHBnQcQ9UxzWZzwAeHWMwAfaHUMNrNvmnOIqxv58LPNT7FFCzSKhbYX8"
-        },
-        {
-          "quality": "SD",
-          "u": "LGaoDxcRHQVXbJVS12ez94LrSQrcil75TVfnsV9sZoBoR7EYEm_f-8Y_5yE0a3q4ClP18kmiSOxeVCdy3SKRqbsilJe-CzEoZka4neMPis_tJDfA4ONo2785gNZavtg"
-        },
-        {
-          "quality": "FHD",
-          "u": "XFDhrZC0yl-tpb4s-4-7ux8FhdGLI-hQi34q8Llq3aaiUr6BABcqaSquoRuI-SC4ULG8vc8Ex6LW_ZlSTkopAJZUxgDCfDgr-bt5QUgKufG2Q29DIqe1lX-Q1Oss"
-        }
-      ]
+      "u": "LFkjcEHVt_mkeQTxDHC89xMqDpYzQWolESJNX0mGp6TAou3LeJZTKvqT9LxWDaWPG5AFtpR9WCBYIQ2QmSkyVbzHA7DhDbVs6Y1hqrxsuyAnKDd2-nBEfYCnQHPmUDXqUX1mOt4"
+    },
+    {
+      "id": "c14",
+      "name": "AR| BEIN SPORTS 2 ENGLISH HEVC",
+      "logo": "http://103.176.90.154/picons/logos/bein/1330420.png",
+      "category": "live_34",
+      "quality": "HD",
+      "type": "live",
+      "u": "vquWItL1WnYipPrNM2VjBMGzwKKLgivSPCHuxBl75g0PH0sKg4t7YaQB-oqd3KufhIB6pfmcJ6K8LRQLuxTcgaVICTB7rN8zdhrcFzFu4rPEKYGJxriU0LGwTnsPS1Uc801EqTc"
     },
     {
       "id": "c15",
-      "name": "beIN SPORTS 6",
-      "logo": "http://kinglogo.newtvhd.com/logoo/BEIN4K/HD/bein%20sports%204%20HD.png",
-      "category": "s1_live_30",
+      "name": "##### BEIN SPORTS HD #####",
+      "logo": "http://103.176.90.154/picons/logos/bein/1294822.png",
+      "category": "live_1482",
+      "quality": "HD",
       "type": "live",
-      "variants": [
-        {
-          "quality": "HD",
-          "u": "QJccLo-1SwVAcBzUP6u45l7VVwOT6oaZ9QUxnk0hjh2w3qNnmPQVwJgiayp3v64vQy6ONe4TufYKW2gq3fK50lWQTNNWmhuYQ7TnRuQq9BObsE-SAXNDF0NEaVCc"
-        },
-        {
-          "quality": "HD",
-          "u": "xBeSmLkmWu5ZasuIzNNv085kswkvnnn0WpWY1LSkQ6wz4ScTEX_elC7CZBVQ1Olz81k7VEBDJHaj27rMy-MhYnnK6qyObCd3mqwfqJtgQ8YNy4cxI-bzaS-haAvJP7I"
-        },
-        {
-          "quality": "SD",
-          "u": "MltFCIgaq3NfaOEEw0M7Mlocai8v8_JScapUBTsbtIKTpvhMggtymOklw9qCNEWgUi3aOeW8lhPHTCodmuCKNNCAeDXjKoCDVFykm5D579ogcy0ept38k5E2oAYYRoc"
-        },
-        {
-          "quality": "FHD",
-          "u": "c3ilGL8Pf6hW_NjMBfuBNLfs5NZPgle7Xc-rvaV1i-kxseXbDXsDEK-eHXJT3LAI87tGrVui0T_Z_7mR4Cz1ukUI98RmoL_c8DmyLz6ZIBrrXE83gtoHtH8DkE-t"
-        }
-      ]
+      "u": "cHPZ8vxUwa4EMDYiVsO0Nt9GT99z81dg2WpUzE24ponZtJe7GthvKB3F3dAW85NKxMUk761JnJy4_sdyTpHq_38LTrlbntgh9rAk1aPQiCoblbMsh90xJMga140UAMtRPKKIQhc"
+    },
+    {
+      "id": "c16",
+      "name": "AR| STC PPV [LIVE-EVENTS]",
+      "logo": "http://103.176.90.118/picons/logos/EUROPE/STC-PPV.png",
+      "category": "live_1482",
+      "quality": "HD",
+      "type": "live",
+      "u": "R3YoO-rSTQT6rG-ZCaY2Gjuq4zkFzlPUqpHAvo9zFB-VVX07B8eqix0pHj3wCVYHe_8jMc4DjQu16rhs4CbPCbxbNGNExYAwFrRTzC40oCFIuzFpgVjUInhaiu3Bu8nD6CuDayI"
     },
     {
       "id": "c17",
-      "name": "beIN SPORTS 7",
-      "logo": "http://kinglogo.newtvhd.com/logoo/BEIN4K/HD/bein%20sports%205%20HD.png",
-      "category": "s1_live_30",
+      "name": "AR| TOD 360 HD ( EVENT ONLY )",
+      "logo": "http://103.176.90.118/picons/logos/AFRICA/TOD.png",
+      "category": "live_1482",
+      "quality": "HD",
       "type": "live",
-      "variants": [
-        {
-          "quality": "HD",
-          "u": "pZZBsAdDLgj_rfHDjKs36oWnD7xLkMEo97F7tfzt_LiLW0YR1SobwisRHNmEyP3w93V6k-e7MNDJCz0gGZ7eiaI7rd4TAtC3rMYG4dpM5sxM2BnhyklxnCfo3Xo4"
-        },
-        {
-          "quality": "HD",
-          "u": "lJb0NzCO2IIQbngbrEZ4y7VAaLKDcQKVmI5k3XCK17D7-5K3dQKt2LPSDgGXOad4ZYkRkA42lJnSvY2-J8IOxNgGppbm3yFBptMX3lSeCBV2XyAp5v5TnHF7lABvGoA"
-        },
-        {
-          "quality": "SD",
-          "u": "C-hBGyRL3B6WQBfnNWRAa8Sow0inYKOdiI38jQBG-PRuLVW98_H_QpLeBhYZaHkwILkuooRm0vusjpyVj4d2EdvUeMsLRABdoajTckBh4rjUSFVTiyCyzFlSOqkDf4M"
-        },
-        {
-          "quality": "FHD",
-          "u": "p_TeCwDtYAWZR6bi2G-ZKwYcHutkxsBtBsqj1uYXRoWJqpd4qf0wDDARHJ8a0kuIadKNw6ril5rFNzoDRrArCJYa_nEWPar2LOXx7YTMdhCXMPoV25zSAxG0vKxT"
-        }
-      ]
+      "u": "tNxJceBUuioiMWir6C-nTBeOvu3v69x41K8xKvbc5Ybj9xGvkZnG5J_WiJlAMbQdh4sTFjUpGP7Sc4S7vintosoLv0O1Lv1JU6O-Svznk1bNOGjBKEmQBwAifjOAZICB3cRC85w"
+    },
+    {
+      "id": "c18",
+      "name": "AR| BEIN SPORTS NEWS HD",
+      "logo": "http://103.176.90.154/picons/logos/bein/1330434.png",
+      "category": "live_1482",
+      "quality": "HD",
+      "type": "live",
+      "u": "O29Hp1b39FI2ES2KbcfFou7q7e6EnFtGN9XLmxhHd2wlXi2G4drEaswrAsyaesKYNCbORYK3mpjYAJc5Qm0-ihyam4rQruTf2CAPvaPSnv8uUlGbsCn8UV-_lpiW5RsIBDFbYeI"
     },
     {
       "id": "c19",
-      "name": "beIN SPORTS 8",
-      "logo": "http://kinglogo.newtvhd.com/logoo/BEIN4K/HD/bein%20sports%206%20HD.png",
-      "category": "s1_live_30",
+      "name": "AR| BEIN SPORTS GLOBAL HD",
+      "logo": "http://103.176.90.154/picons/logos/bein/1330435.png",
+      "category": "live_1482",
+      "quality": "HD",
       "type": "live",
-      "variants": [
-        {
-          "quality": "HD",
-          "u": "6T3w4XEvTxr43ERqQBQ4Yp27QtIDIoJ25U5D7Okt9UjSaxuLWDzkp6RxXrX8WGCBbxgabv8MhJS8iteDfpiAJaiB3i0i5XWN674CChFnCdb805o3C1pXg4r9K4CU"
-        },
-        {
-          "quality": "HD",
-          "u": "PrToWL2IPTzMAgnk0h90UYZi5UPgCpfFoL9OYaZoZLI2SYJfCR5lmR6BtaL554ILr6hZVZomeIrRP5l9eFJl4JKIDvbpgJnefLx7XPOJF81XwpD3R2YDuiStianXHT0"
-        },
-        {
-          "quality": "SD",
-          "u": "zBmx0-eDk2pfLsUitw-8Ri0gqYydzdrR03MqepOV-zIseHhX0tZNu07HkYvdIz6taZUgkNR_BwBKJgFxhjGquSjqRfEXEDr5ewreUEYAWUTjlazfY4zMvkEic-XJyYA"
-        },
-        {
-          "quality": "FHD",
-          "u": "GDgMOYTMJ9ahXRz44EHDBn3Ey6NIowQaEx-cB4Bdz7OtoWEn0zzN7xpIkQbXSyu4ZzFj7PSU3-mx7Ulf8c2Jg1P4H73xoBCiJdE1GnLsrWhj4wtU95VG8YT8e9YZ"
-        }
-      ]
+      "u": "iJFbKGwDEF0Sp-XPzuKCAkS3nEj3MYCSITVItcov1dWkcC8BsGxHfj7l13hHlR_pvcRGBKw_sK8C6suVfYVYMdsd4qTqP2oPAjLwZvyG3ml8ZGuh28edadE6gh3Mw2aBI2o8BKY"
+    },
+    {
+      "id": "c20",
+      "name": "AR| BEIN SPORTS 1 HD",
+      "logo": "http://103.176.90.154/picons/logos/bein/1330437.png",
+      "category": "live_1482",
+      "quality": "HD",
+      "type": "live",
+      "u": "6EZGe3wLYHOUdbT0CZO3SGMUd3A6OgePwmpPVZfGI2AK6TuNGTDge5-nmns9CZg7J4P4sW7C8YIAnYxR849x4rwBGc5atUrPjw_4P8GVAilsT7wicluPezq9PNDasQhrbk0cBeI"
     },
     {
       "id": "c21",
-      "name": "beIN SPORTS 9",
-      "logo": "http://kinglogo.newtvhd.com/logoo/BEIN4K/HD/bein%20sports%207%20HD.png",
-      "category": "s1_live_30",
+      "name": "AR| BEIN SPORTS 2 HD",
+      "logo": "http://103.176.90.154/picons/logos/bein/1330438.png",
+      "category": "live_1482",
+      "quality": "HD",
       "type": "live",
-      "variants": [
-        {
-          "quality": "HD",
-          "u": "8K24t0KSh4aGe0tL_-cy_ouzT3rarxCD_Tk_4mmIkiHyQIBp517kHL8d5FidNzvfIeSoZ8p5sfv4z-EsJFUyKQhNFBMCyrAjFtpTBj22BboMwT0TzrQ7VtgIXkvm"
-        },
-        {
-          "quality": "HD",
-          "u": "LLbTMWdSVusu4zzQRnhvkUbP5-mP1fq0qR_TANF3IuYFPqLBLeucdOMKGyvUZmgb3LFLAi5NhBY9G1aodjEcXkrwfzJ8QTB9CzWbJBGNpg8jRIpP_FVsIV8Jplq8ST0"
-        },
-        {
-          "quality": "SD",
-          "u": "E8U9vhSmPGUmbdIYpJ0-knSGMvHOoRlKinWlw1-jUHDeELs9HcUTSdXJQ6MLVrBxyFWvpHMaSN6DqRQhrI5cLISEkkCLGsfCUpo6ixTRDOomfyD472R084S7IhYzj0k"
-        },
-        {
-          "quality": "FHD",
-          "u": "D0puy_nMg_jAIJvN6WFkgo1YmFeNKNuleSWlfd3wcfsqproPuO6mk5OoXgSvvx9P8LkbGnxp9yV55gNUjti8rJXzuMrfm96HNhAG_QF26AwKQKZIo-V_ZgJrxmrs"
-        }
-      ]
+      "u": "9NpS5qTHcyEACWScMlJ_ss8ZZoWfpNUmjy0MDobEhqL2GN5t0r3qf1kCi-bvvKw0FRk7UClBImoiwtZHHxnl6INh0k_CRfDtWZT5GdHecf443WuFY5GKJDSBMPgy5Z0r7ZI4gUs"
+    },
+    {
+      "id": "c22",
+      "name": "AR| BEIN SPORTS 3 HD",
+      "logo": "http://103.176.90.154/picons/logos/bein/1330439.png",
+      "category": "live_1482",
+      "quality": "HD",
+      "type": "live",
+      "u": "TGkKxrMSFvXbuZ6V4rrj3T3-nd5kG5xOborOTi9zks4MNChua7DRfINm3suLSDCLiAs-WfNNam2grkRMhWVtrtDRIriR_6BgQaGOnE7nESMybODOI2idRl6n0HjFGqJ5tTd6ZXM"
     },
     {
       "id": "c23",
-      "name": "beIN SPORTS 1HD EN",
-      "logo": "http://kinglogo.newtvhd.com/logoo/BEIN4K/HD/bein%20sports%201%20ENGLISH%20HD.png",
-      "category": "s1_live_30",
+      "name": "AR| BEIN SPORTS 4 HD",
+      "logo": "http://103.176.90.154/picons/logos/bein/1330440.png",
+      "category": "live_1482",
+      "quality": "HD",
       "type": "live",
-      "variants": [
-        {
-          "quality": "HD",
-          "u": "UL02GN1pebzKruv-ZaAcld5TCevNcUok0M2nnDGhwqVvoUc31paxvs4d6Mj_N5vfAmmbf9-rwX0FiRMNR1-tYhIEcCl8QmqsSOUmxSi_AE-j4vmRXw182z1CYW3A"
-        },
-        {
-          "quality": "HD",
-          "u": "exEuEV0U_MphIcZ9xCOP3uUQmU3c6_kOTEnmaj2WOSYsuDhD70A4z-RZKPes5NQbXeu9Hbw-zee04xecgf4xQGswZbuZJqLfbxKrEGPl34WiQ6RlbZyyeX-tloEXAhQ"
-        },
-        {
-          "quality": "FHD",
-          "u": "z1rOPqsTo6jyThzjzYcxn2D2X0aSxRMBNKgsT0WdUsMWS8GMjoR7DCrpnU6vn1i819w_3nM_8iZI9dpTFGYCDEPK5MIfIggJmusYuFRRBjlgQOGLOftgmWJ78hC0dA"
-        }
-      ]
+      "u": "_N1q7B6XqwkMsOOEhatw8mD-zx6rZtXH2DfKHZprM3IqK0jYBE8g6LT89-WrUqyq52GGRMpQ_LGochzKUGuXtdKxlC1r-1AJJ7i2vZfWyXFFU673jyamw0khmANlkoOVqzRdT-I"
+    },
+    {
+      "id": "c24",
+      "name": "AR| BEIN SPORTS 5 HD",
+      "logo": "http://103.176.90.154/picons/logos/bein/1330441.png",
+      "category": "live_1482",
+      "quality": "HD",
+      "type": "live",
+      "u": "W8qmooZn-YOBsV-ofCqRtxA3qCV_b83FCcMsyMQWhbJu-joVSPwOdA71ERJESJ9PmhjFjQFIIdcBPjBu3CxBtQtQcelVwcPlz9PRHen8716fKSfr2YE-KELBxPthNBo1rJkRo10"
     },
     {
       "id": "c25",
-      "name": "beIN SPORTS 2HD EN",
-      "logo": "http://kinglogo.newtvhd.com/logoo/BEIN4K/HD/bein%20sports%202%20ENGLISH%20HD.png",
-      "category": "s1_live_30",
+      "name": "AR| BEIN SPORTS 6 HD",
+      "logo": "http://103.176.90.154/picons/logos/bein/1330442.png",
+      "category": "live_1482",
+      "quality": "HD",
       "type": "live",
-      "variants": [
-        {
-          "quality": "HD",
-          "u": "xPFRAf8LHxl5xNtvTms7XUnvlW-ttcItXbCWakvTNzfFU98fMQZCUZVYNvTZwU7odfsIybTL6PCZznIz8h6sP5LFOAZYh8-caL91ABVUOZglSUXsVF4K2Zlatgbl"
-        }
-      ]
+      "u": "_4xNoYgxfgtY06r585ip3lkF8JH-RaEfBE86CYkcL1JV7WNZE917iQ3Y_vkVcQJClzLwZBh7TBWyWJv0yhwna93SmrcrwKhsX_Gtos5YscX78ExY11twnv7zrvTx2V-xPeEPex4"
     },
     {
       "id": "c26",
-      "name": "beIN SPORTS NBA",
-      "logo": "https://picons.atlaspro.to/pubs/december2020/12-20-2020/bs.png",
-      "category": "s1_live_30",
+      "name": "AR| BEIN SPORTS 7 HD",
+      "logo": "http://103.176.90.154/picons/logos/bein/1330443.png",
+      "category": "live_1482",
+      "quality": "HD",
       "type": "live",
-      "variants": [
-        {
-          "quality": "HD",
-          "u": "jZfi_fdQ4ybyit41ISQN0t7xlVMcx-qpXIll8AU3eflITkkK1UoQynuRGB_jtotqLGnBx4lwTDhfjEWnBsG0XrTyXu-Pm_jZ1pgv6UkfqYapLXyRiQ6tXMf86BCLFFc"
-        }
-      ]
+      "u": "DzqGlaFTBO5ngPaHqHxXNJSniiJENK1n-CaDFX_a1Lo9RHB4TLDd1_Z5o21XKx8FyfJ9IyAcR0eOWjXJeDelYe12sPaeasQXb_5gEStMhnuaIrKL6qAn3dYHuitiWx9fd-Yh-3Q"
     },
     {
       "id": "c27",
-      "name": "beIN SPORTS 1HD FR",
-      "logo": "http://kinglogo.newtvhd.com/logoo/BEIN4K/HD/bein%20sports%201%20FRENCH%20HD.png",
-      "category": "s1_live_30",
+      "name": "AR| BEIN SPORTS 8 HD",
+      "logo": "http://103.176.90.154/picons/logos/bein/1330444.png",
+      "category": "live_1482",
+      "quality": "HD",
       "type": "live",
-      "variants": [
-        {
-          "quality": "HD",
-          "u": "MbFGphOfvDgx0x2tna3M82lTEmNY8j9vsA30biDywSOo0xGYMc0SVSGPX7axG48EX1PSehzfTp9QKyzvnppK34FBCcUr2woDpQa0JSX4wtgAYqCK-11krwCKRCNA"
-        },
-        {
-          "quality": "HD",
-          "u": "v55t01dMitDsUpwVUdWBBm8G5y296jpDGs-OpChV8_jENL3MuVpJteNSOoBZmY2OJiLY-VnQ4Q-DIufPuJoUadcPF6QUMKlrN5wre7nH1Ul4u6VKfKwEkxeyKEWMQAM"
-        }
-      ]
+      "u": "fFGrZ0-92J1k3fR3s7TbNz1y8tpd0vEsNNYDTUTlcDbQnCQaI7oRrK4Q4KyDRTd_dQbHiJXTYFg7gpQBu_JfOXPwXrYY0Q6rt8o_XimGAbJlv_yV5wZCV9iS271LBSII8eaDG_E"
+    },
+    {
+      "id": "c28",
+      "name": "AR| BEIN SPORTS 9 HD",
+      "logo": "http://103.176.90.154/picons/logos/bein/1330445.png",
+      "category": "live_1482",
+      "quality": "HD",
+      "type": "live",
+      "u": "S4J55d8VhTuNFweKcs1SsSGrT37RngRYwX4MQEZ0W8DvTTFahT3E5qnE09v8KzDCSrqjvWghwcpJYfcJ7Uyque18MTm7hDqiiSWx7y3vG8kiBMacqfHpKJ9CRrlSnIz6rkZSBCE"
     },
     {
       "id": "c29",
-      "name": "beIN SPORTS 2 FR",
-      "logo": "http://kinglogo.newtvhd.com/logoo/BEIN4K/HD/bein%20sports%202%20FRENCH%20HD.png",
-      "category": "s1_live_30",
+      "name": "AR| BEIN SPORTS 1 XTRA HD",
+      "logo": "http://103.176.90.154/picons/logos/bein/1330446.png",
+      "category": "live_1482",
+      "quality": "HD",
       "type": "live",
-      "variants": [
-        {
-          "quality": "HD",
-          "u": "cg8yXbyXajKOewIkuPKnAaYC4S8h1a78-Ym3xtFcuqrsI3QYS74cMhulqI9FV0hJdeD6_Izk709xR7_-t8ulZ-WZ3nDU3Ih55d089QgE7lZ1_Wf00S4zZNwn46FPQO8"
-        },
-        {
-          "quality": "HD",
-          "u": "qOlcJDdpTAw9qlJL8KLRy9O4cJxCGmAnXDfm3QRVG4g6nIS9Q240UhQiVR33H6EO8mWuJz6O8CMcvXhTU9PXyyC4zlOTSzDNvNRUcexeIj5qkge0hbACAul9WZygJeI"
-        },
-        {
-          "quality": "FHD",
-          "u": "AgHPH_jFj8GQO6hJadYgB_U7yDmFzG2hBfEbmNguPxAHcvpnh1WWrJO9cGfrv3TPJcDDW13J68jJpypHvZDMPK8sQg72wnTuYK0S-w0y3YdC7jcslwg5wuh0qiklgqw"
-        }
-      ]
+      "u": "UquVya9eoOhNQBGGR14MAydabUpoVwmqeMvrwCVV8OnWjPPpYZ0dcnkSmrxBTvBiZZQ2B3VjX30iuuTvXNjovkrh4--2-Hj6V2DGA2SXpiUI2A3nHYZYzHGHJB9Nisz8kApzHLY"
+    },
+    {
+      "id": "c30",
+      "name": "AR| BEIN SPORTS 2 XTRA HD",
+      "logo": "http://103.176.90.154/picons/logos/bein/1330447.png",
+      "category": "live_1482",
+      "quality": "HD",
+      "type": "live",
+      "u": "UnQjugHs89r0UxNE_uy5jLS3FhnnAB-X64qVZBCfELGfHQTzWelE-J0_zKhaIIWTkrIebfrMVFcAT6NFnfWcCaobMRvdYQQLhZS9ipHiRxqcdsv2nOyqW1MshkHwYVe1-f_QxnU"
     },
     {
       "id": "c31",
-      "name": "beIN SPORTS 3 FR",
-      "logo": "http://kinglogo.newtvhd.com/logoo/BEIN4K/HD/bein%20sports%203%20FRENCH%20HD.png",
-      "category": "s1_live_30",
+      "name": "AR| BEIN SPORTS 3 XTRA HD",
+      "logo": "http://103.176.90.154/picons/logos/bein/1330448.png",
+      "category": "live_1482",
+      "quality": "HD",
       "type": "live",
-      "variants": [
-        {
-          "quality": "HD",
-          "u": "yjAaCcHaPys_SvOsvbUTpW5fLqrE1Yb-yrJiUNXUEVpBPpDs2Hf9ljy6KKdi4JPlMz2Yxs7cGCd5sHetQVRfOhzfhtjG66lsgHKpTUGapSS66l8vFOCXeQKcNWK4Gro"
-        },
-        {
-          "quality": "FHD",
-          "u": "Ln7zgnGFTeBdgI0V3mdMqxIeqYAIk35bOr_NszNEEUMlQpp7lfRZG80uTv25auitNFnO_I2oS20GBTfJoI5txZq2wq5Q1Yv8tOZtNgX2WnCewAaXDR32mCpGB7WvxR0"
-        }
-      ]
+      "u": "SH3ZCCBG5wqHc7_2vmzkD3Ppqc-_gsum4XgfyO_7QV30cMNeyRzbOb2s1DtEb2ISScvPggSkv61oXG296-8OmirEuF0vY3WfUK9T_f-VjdYML8iiK3I1wkPu5mFqXwA93f-0qak"
+    },
+    {
+      "id": "c32",
+      "name": "AR| BEIN SPORTS 1 ENGLISH HD",
+      "logo": "http://103.176.90.154/picons/logos/bein/1330449.png",
+      "category": "live_1482",
+      "quality": "HD",
+      "type": "live",
+      "u": "m_kA0zKKiU00CSH6i5CFxr8WHpt6ZlErlBxvaupSKrFrQPamtfEA2BsqqSf2p0zXgPrI9koBuOpTKUX1EoImRMb9Ex5VCgeDDYsw-Xm2JIRk6dFpYZWFFkSBAxmT17nsYZGVXgA"
+    },
+    {
+      "id": "c33",
+      "name": "AR| BEIN SPORTS 2 ENGLISH HD",
+      "logo": "http://103.176.90.154/picons/logos/bein/1330450.png",
+      "category": "live_1482",
+      "quality": "HD",
+      "type": "live",
+      "u": "_szhPOM8jtMB55BXVk8Bg-Usn76RdvRwLaoO8V_fcvouNTCwvz8wNr-8lwwR7hy5hewMjcwZhWX0yKtSva7qF4oxQDsk1AOJaeERQw6DrfjAKoGlvtHXdtze13nzz--7oKmH7Fs"
+    },
+    {
+      "id": "c34",
+      "name": "AR| BEIN SPORTS 1 FRANCE HD",
+      "logo": "http://103.176.90.154/picons/logos/bein/1330451.png",
+      "category": "live_1482",
+      "quality": "HD",
+      "type": "live",
+      "u": "0t_89kir4ubzeklUi-kkHix6I6XJt5qdrVdbepaxrjrs1-B40AT2uhVqUV9aIBJ7bhr6QGJy5l4gOXBG50nOLna9n8iq2vVbEChoBhP2BZBVYDbLTIGQgP7siXW16aEBN8gN98A"
+    },
+    {
+      "id": "c35",
+      "name": "AR| BEIN SPORTS 2 FRANCE HD",
+      "logo": "http://103.176.90.154/picons/logos/bein/1330452.png",
+      "category": "live_1482",
+      "quality": "HD",
+      "type": "live",
+      "u": "bamS92j0YuMpp-fZBIcA9xO5C73fdyt2qbEVnH_hJy0STbtqY3LijljiSVhBfqZO1WHX7yfD5SBwrebcIROuluhfx4q81Joci_J10aYwFLZKavrncCR6hJpURB69zhB0eT_huaM"
+    },
+    {
+      "id": "c36",
+      "name": "AR| BEIN SPORTS 3 FRANCE HD",
+      "logo": "http://103.176.90.154/picons/logos/bein/1330453.png",
+      "category": "live_1482",
+      "quality": "HD",
+      "type": "live",
+      "u": "eWOF2qajiQJ8JJTafwC5IiWFsPYQKPBsbfimQNG5pZBRggCz2z_8LEp2yoMN5wpmBr7F7Y1MunS-QEMRyFYIJf-CG4OOG9AGuVm1Sre69_3KEawqVXHIFUc0P_pBcjpGfWiIbX0"
+    },
+    {
+      "id": "c37",
+      "name": "AR| BEIN SPORTS NBA HD",
+      "logo": "http://103.176.90.154/picons/logos/bein/1330454.png",
+      "category": "live_1482",
+      "quality": "HD",
+      "type": "live",
+      "u": "_NZzl00XeQ8J_drwMroxl0FI-juqOu6LYlEiLev6KONhVJGOSiWFxhZqASnI7P4GwaLB-8sb1GDBkKtAdaJmbWYhfssMUJo1a7If3kpYcA4g7ufSdxErDqEOu-eMa71QFOM1R8w"
+    },
+    {
+      "id": "c38",
+      "name": "##### BEIN SPORTS LQ #####",
+      "logo": "http://103.176.90.154/picons/logos/bein/1330486.png",
+      "category": "live_1483",
+      "quality": "HD",
+      "type": "live",
+      "u": "5eAdodZi5M7NChyeehMLvuVzLL1GBBALqiSzM_8MN58YJuiQe6aEIksj54zs2CsxSF1V6BDSHnJKYcOb4iScYTwN5fkVLv_tUgTcrOOHrMai2EmIb5nkD8H7xv5EgPz8k0grXD0"
+    },
+    {
+      "id": "c39",
+      "name": "AR| BEIN SPORTS NEWS LQ",
+      "logo": "http://103.176.90.154/picons/logos/bein/1330471.png",
+      "category": "live_1483",
+      "quality": "HD",
+      "type": "live",
+      "u": "wU7_uWm7QpYYT5UgyHFspoK9z5Nz2KiNIhozq58EfBMaSPjtJmYZorv7oH7p4tXU-6D2fl_qpbqgOApX6HiACkWDbwrwsEsq8U-iGuvW9rIWgg_e5Jmy8tXd3Pb5pBjRZEIqFxQ"
+    },
+    {
+      "id": "c40",
+      "name": "AR| BEIN SPORTS GLOBAL LQ",
+      "logo": "http://103.176.90.154/picons/logos/bein/1330472.png",
+      "category": "live_1483",
+      "quality": "HD",
+      "type": "live",
+      "u": "dq28vXsmopcoC3LUk9AG43BcTTK7C990SkL2YWVrzKGMR-QOxcoQ2fSqogKovcrcLb_uDthCrtG2x7vr0tyoCIbNPU8HS6A9G564wSgMv7BU9iyuwsA9F8nknRdSXAiu4Tk_C1U"
     },
     {
       "id": "c41",
-      "name": "NX| BEIN SPORTS 1",
-      "logo": "http://kinglogo.newtvhd.com/logoo/BEIN%20SPORT/BEINHD.png",
-      "category": "s1_live_1968",
+      "name": "AR| BEIN SPORTS 1 LQ",
+      "logo": "http://103.176.90.154/picons/logos/bein/1330474.png",
+      "category": "live_1483",
+      "quality": "HD",
       "type": "live",
-      "variants": [
-        {
-          "quality": "HD",
-          "u": "spKSioFRaUID9mDY8LXn7_zQGwTNCpUEVmSzkM6nkSea1Fauy1rXphhUwXS6I-3pPyCno6I2OnMVSD1TwWn0LiQjO1bRjDw-mitw2Dy1S5DJ16lbfxK4XZKwknJY6rM"
-        },
-        {
-          "quality": "SD",
-          "u": "KFlG7QQiWc5UaW0LR5KfxHugCVURrD-EU14UgrrcJRO14UsFUn3uJ8EsubfORQPFMumJRhOFvBBUny5POoeOzLo8kyQTCaHY8ebDWO6UfgeKj_HQK6k3RxDWnQuuyus"
-        }
-      ]
+      "u": "qutkvOWm812e7fNfL58a0NtcDFqPrFYck8nlRFgcoLyMFpoxGBAM4gqJ3L6lEkO9nCQSsN5kTmr6Ws0rRGeFXw29HxvTZmg0CFcyJ0kdTreSr70W0Jw7yrmynJiyh0MQo3OjzsY"
+    },
+    {
+      "id": "c42",
+      "name": "AR| BEIN SPORTS 2 LQ",
+      "logo": "http://103.176.90.154/picons/logos/bein/1330475.png",
+      "category": "live_1483",
+      "quality": "HD",
+      "type": "live",
+      "u": "Z58cr1e6vkby0I-u6-imjOgr7BSvcNiRIiI5kcAkXGdZnEkcq1aEReXPZ0gTYqkGRZ-3K4ad8SslbMwMVa_JW5B8VFsqxJaSCcgZwe32AzloyA1yiOAif6Gw2eH9_7c6RRGGaYk"
     },
     {
       "id": "c43",
-      "name": "NX| BEIN SPORTS 2",
-      "logo": "http://kinglogo.newtvhd.com/logoo/BEIN%20SPORT/BEINHD.png",
-      "category": "s1_live_1968",
+      "name": "AR| BEIN SPORTS 3 LQ",
+      "logo": "http://103.176.90.154/picons/logos/bein/1330476.png",
+      "category": "live_1483",
+      "quality": "HD",
       "type": "live",
-      "variants": [
-        {
-          "quality": "HD",
-          "u": "-XpDUlZeuFKQhXHUNX-5HFWk57mpgAwQgF52rIFnryywnUiXbMsV9UYlEPg0SyyCWn1wogWLrmAspy0xiMCOC4eIAAQmLet8DETnWSj57P_CiuYocCJw9fDeR2cMVV8"
-        },
-        {
-          "quality": "SD",
-          "u": "dMlAdHr-7_WrISSg7J_ZlNgJ45l6jC-q-io1SJ2KfkzT2u62995GydXiqI4NE1gxqJoZD5cHcB0kfwJKHE3KNty8uQb7B4GdWNBOyQr3B7C_2UTauw97rkmH8NhqhkY"
-        }
-      ]
+      "u": "CX-oFaSMMTKMSpJxClZVt55VOZ9CFnWuGU_acqkX1zDjLZZPpEvPWONQ1T_AKqyW2EVOeNBcVZWCQER322xRZYztKHUoLTr1DFn0_97A-HeGHuzqw67QbEw1kujgupdN73UNkOo"
+    },
+    {
+      "id": "c44",
+      "name": "AR| BEIN SPORTS 4 LQ",
+      "logo": "http://103.176.90.154/picons/logos/bein/1330477.png",
+      "category": "live_1483",
+      "quality": "HD",
+      "type": "live",
+      "u": "hXLfZDxROR4P0xqJMwPt7flCwMDqZhXEB9Vc-0h5kyle9uJInq8oFMr4OLfr7AtwUL6k8ieV1Lfd09kglDQKe7XD200Czp8l2rj6p2b2tf97pYMGfn7Dct05yz_0-Y8fwgLVgh0"
     },
     {
       "id": "c45",
-      "name": "NX| BEIN SPORTS 3",
-      "logo": "http://kinglogo.newtvhd.com/logoo/BEIN%20SPORT/BEINHD.png",
-      "category": "s1_live_1968",
+      "name": "AR| BEIN SPORTS 5 LQ",
+      "logo": "http://103.176.90.154/picons/logos/bein/1330478.png",
+      "category": "live_1483",
+      "quality": "HD",
       "type": "live",
-      "variants": [
-        {
-          "quality": "HD",
-          "u": "rVD9RZaW71rcJYVwM5cZUOBiIpZiIND0GzUdImSFGuuKlCqbwYVaEuTEphVn_8VGRLoLV-7JF3YiOepH_hTPuNEBKd7jzZgVnQL5U5rLarPsJ_Nhxa5J4SvPhMiqlT8"
-        },
-        {
-          "quality": "SD",
-          "u": "sbLKHjjTSXNajqHkc1hHO-qBJ65uy354kMn0daZTV0t_9TssJcF1JMc7S7XifPOgk43vGHNu-5X2JkPa7vHXFdE6YvCsCqGxnEF6CRUFIEn2DMW0L4vS90cZTkEau2w"
-        }
-      ]
+      "u": "FKQH7q6S4eCqGbOwYTtWQXcwLlSEVh5jqLkTCQAtVMrywFVWxo27mQWGWMVcGtGKtB7UctAp-0wTem2Up_RLNLF9tqa_mBLpZ3i54_nY5yb5DIhZAAmr3MJmpAgC8XtP8dwBjbA"
+    },
+    {
+      "id": "c46",
+      "name": "AR| BEIN SPORTS 6 LQ",
+      "logo": "http://103.176.90.154/picons/logos/bein/1330479.png",
+      "category": "live_1483",
+      "quality": "HD",
+      "type": "live",
+      "u": "jY8mI_sqSKcP5eWF_gvQ-mKPxu4Z1-_cZvLkVWbA782RennoOqPSdtMapVJzt_DbASr1k4wkJ6AnolDxlp-Z2gjj3vgkFh5WF5TLGZDA1etPUGCw9Dxojs-zrZKdP0Q_S4f47rU"
     },
     {
       "id": "c47",
-      "name": "NX| BEIN SPORTS 4",
-      "logo": "http://kinglogo.newtvhd.com/logoo/BEIN%20SPORT/BEINHD.png",
-      "category": "s1_live_1968",
+      "name": "AR| BEIN SPORTS 7 LQ",
+      "logo": "http://103.176.90.154/picons/logos/bein/1330480.png",
+      "category": "live_1483",
+      "quality": "HD",
       "type": "live",
-      "variants": [
-        {
-          "quality": "HD",
-          "u": "IUbidj1phIvI_SI4gnEJHUi7_aIhQF1Z76GRxqmwLhvh4bo5Lvwvv71vsyaUcHwPGmTi_b7vYRUcbsYSssNMIbBXRCp4DnBL6Ln05cHtFk3QzoGGUGv-0klBpjaTnlc"
-        },
-        {
-          "quality": "SD",
-          "u": "20pRFHNbKDfGdqA7YUomL6jcPtwFJLYgsmFCsU3He7oH7dUHAKCmju8NTh7tdfDGV2xhnHp1MyIYnj6KqiXF3tngycB9b4UydRZr0dXGf9vOFRhTM3ujrizC-F3o8A0"
-        }
-      ]
+      "u": "1b6O1ssRrpDYVdhx3iTIRVnDp830r4wdajOlUSXO3gCTUIZ-qUQRzsg1QXWWToJ3LZzVtTpsFHGNBfoImbIjtvHsNpWoV12xfSNoijF_0pOs5YSFBiyh5sHIULB2H2kkVlh0bmQ"
+    },
+    {
+      "id": "c48",
+      "name": "AR| BEIN SPORTS 8 LQ",
+      "logo": "http://103.176.90.154/picons/logos/bein/1330481.png",
+      "category": "live_1483",
+      "quality": "HD",
+      "type": "live",
+      "u": "3Vsffx0OvtoNhlaBmLApCmCuf3LbT1gtSV96r1q3JBSOJZ5fK61VT2d7kWcxoP70YuKspag66miHfYID8Gm6aodc7BurJnz6Ww8S9O2Awg5usq9Xp4m03KnrlViPYOXPdt47X-c"
     },
     {
       "id": "c49",
-      "name": "NX| BEIN SPORTS 5",
-      "logo": "http://kinglogo.newtvhd.com/logoo/BEIN%20SPORT/BEINHD.png",
-      "category": "s1_live_1968",
+      "name": "AR| BEIN SPORTS 9 LQ",
+      "logo": "http://103.176.90.154/picons/logos/bein/1330482.png",
+      "category": "live_1483",
+      "quality": "HD",
       "type": "live",
-      "variants": [
-        {
-          "quality": "HD",
-          "u": "dK5y4ObZS20211x4GBjssuXNyu13A9kBKk-DfN9hie76Lr_7JXfE84wtVZ8Lqa_w5yZcuaSXBdKlTh37ERD0BZgGveCniH2waOTHAYCjNT24H7uVXchCkH-k7xgb3RM"
-        },
-        {
-          "quality": "SD",
-          "u": "95BcNA0sBAnfN_kdqFQ5jlfF-iqcmAJx6ciKFMISalRsEA8iwjTSU5mbpVnwUOrRlOa3jIJaeuYGZAuluxzU1-eXAtS4gSkoRhTcEUIe6619l31-W08zCy582zVue-0"
-        }
-      ]
+      "u": "Mf3zbCYqV861RFE2WrMlaXqYZlZzEJuJ9nHOaIDm95wvHoBganBTQl3y_Hgoi-IEm4nie-1gci7qPCxQveRMBqPkDQNGW4F-md52WjfjdpUJMdKa_dT_qZZ3Yifr7mNb877fDMg"
+    },
+    {
+      "id": "c50",
+      "name": "AR| BEIN SPORTS 1 XTRA LQ",
+      "logo": "http://103.176.90.154/picons/logos/bein/1330483.png",
+      "category": "live_1483",
+      "quality": "HD",
+      "type": "live",
+      "u": "ZzJTw94Vcu2313TNL_UkE6m_w9CCurggO658aG1Pmc-crBCBR0bWA5rCgRDnRBxoCEfmf-e0dkr-JOSAv4Bp7TNbBIRcgxLEg4__HAVvftLWSqcD2Sa_AsD-p4JWw8a_59vSFSk"
     },
     {
       "id": "c51",
-      "name": "NX| BEIN SPORTS 6",
-      "logo": "http://kinglogo.newtvhd.com/logoo/BEIN%20SPORT/BEINHD.png",
-      "category": "s1_live_1968",
+      "name": "AR| BEIN SPORTS 2 XTRA LQ",
+      "logo": "http://103.176.90.154/picons/logos/bein/1330484.png",
+      "category": "live_1483",
+      "quality": "HD",
       "type": "live",
-      "variants": [
-        {
-          "quality": "HD",
-          "u": "9xYIY85q6G6gaFtRnCd499cyUiP6z4MFEMWSfYP60g5CE583ImYQosZFhin78KrtRroFiuFJLC92vSgZiQeDmfc8FH_Rv0LieHIIiJ4C8peerkVEc6JykcNmpQ6MqtA"
-        },
-        {
-          "quality": "SD",
-          "u": "vZDODvs1OGJ_DFNd-KDW6-MM_IoilpDMrwiGgXaU160UBuX932oSLjR0BoZaOfy_jWIzgXLnrQEVs8-jK4_vXtOp01RVbkj9qR7SyD8qntWAUThtW0iNlllVTPvRK18"
-        }
-      ]
+      "u": "JBHBNQUZIrKYjWOq69u1hFXaCb4W7vT9akIyeN7PN7A1nBWaVNO06m2cKnspySXEWmk2gx6lWXD6KqyQPj_aJC-iakHA8iLwvPOoTxsqD73QCKHXlQ5dFHb1Pey5VFzD-Xvr7Xg"
+    },
+    {
+      "id": "c52",
+      "name": "AR| BEIN SPORTS 3 XTRA LQ",
+      "logo": "http://103.176.90.154/picons/logos/bein/1330485.png",
+      "category": "live_1483",
+      "quality": "HD",
+      "type": "live",
+      "u": "ZQaYL01Jq9e-uievyet15mqakMPckZ9RaexeFxCeKTzhbi28y3Hk2JuTzKLlr0KCFVoWqftsRlD1YbwTAa0eWU493uGGaAIaGuBv43g_tzSd1ln99lg4VmrWPwfCsoAXTEQPyoM"
     },
     {
       "id": "c53",
-      "name": "NX| BEIN SPORTS 7",
-      "logo": "http://kinglogo.newtvhd.com/logoo/BEIN%20SPORT/BEINHD.png",
-      "category": "s1_live_1968",
+      "name": "##### BEIN SPORTS SD #####",
+      "logo": "http://103.176.90.154/picons/logos/bein/1294856.png",
+      "category": "live_1483",
+      "quality": "HD",
       "type": "live",
-      "variants": [
-        {
-          "quality": "HD",
-          "u": "QMPyulUI_lN726A547UZqDyUU2JRC81sbVgwySB6eXbPzmdVQHPRorOGzAY_1XN_jB7li5q65GcFnOYr4rUvgvSdfT9s0-Ip6gn6Wf-AgpCqeGI4fcwLi3XLnWnB-QE"
-        },
-        {
-          "quality": "SD",
-          "u": "DvOBY6vctGn1kZx-QB6Qi22bFVktfP4wFUSv_zTpB1pnXktip3QqKdjddngBNRiBDYS3JfxXuOdcVfHknC6z6ygUNKxXXecWi1jLT8AYF1oRUy0bS0V8jYvrWPSWyKY"
-        }
-      ]
+      "u": "7aK-dpE4QpUFgCjmZJE6XcYwrwvoHnXLvh15WvkY4MixPnBa5hKTYvpid-GIxqGrqTCILceBkc9ZDRqfd27HHnhIJK5cL9TjBn48tLwhdfrttZozw9UmwYa1k-xk6Du5WiPgvqI"
+    },
+    {
+      "id": "c54",
+      "name": "AR| TOD 360 SD ( EVENT ONLY )",
+      "logo": "http://103.176.90.118/picons/logos/AFRICA/TOD.png",
+      "category": "live_1483",
+      "quality": "HD",
+      "type": "live",
+      "u": "1qtKiBf640s-cxetaJeq6jRWCNCooOwreftiorziQYFhmkoo83rxQ3JfeXAGyUx2QPTt3qHblzMuplptrjBwRULoOp9Wk6px0zKDQOUpgUmB65MB4S5byqBYrzJoA4ofkv14pxM"
     },
     {
       "id": "c55",
-      "name": "NX| BEIN SPORTS 8",
-      "logo": "http://kinglogo.newtvhd.com/logoo/BEIN%20SPORT/BEINHD.png",
-      "category": "s1_live_1968",
+      "name": "AR| BEIN SPORTS NEWS SD",
+      "logo": "http://103.176.90.154/picons/logos/bein/1330455.png",
+      "category": "live_1483",
+      "quality": "HD",
       "type": "live",
-      "variants": [
-        {
-          "quality": "HD",
-          "u": "bK1pVlQl5fDidxblYk5m4JNHVivy7PUw85yrQHRpLbbgk7MCiqqGv1gmhlW_Zwo9vcUfqFZVkm9UJtKC8WXJaXePmhUjJWm9YTpziifl-9zKY89mIqYFrlyyD2IJuGM"
-        },
-        {
-          "quality": "SD",
-          "u": "OBpXk6E8TlTdXneSuUTA5WIf_qHBElfC5Pm1FFbvEaHCE6U5aKbDo-y081LxV-3xhhB0Q_SsTI2fWcwqHz8HSgrNt-qIaM2o0sbkMRVQk0K9Sb1snok-yDtFv9wiy3U"
-        }
-      ]
+      "u": "JBxV3LBbzHw3InzI7nJw5y8sXWWnJ_H83922lpcoC0YhtoPiA3VpHMoGZAhmPXtFYcjSRQwi2gUAkcf1lyVRViU_aOjNEv-ArRG9B7kSqf9r5kswPUYzB8Pj11VHEk42sAATBPs"
+    },
+    {
+      "id": "c56",
+      "name": "AR| BEIN SPORTS GLOBAL SD",
+      "logo": "http://103.176.90.154/picons/logos/bein/1330456.png",
+      "category": "live_1483",
+      "quality": "HD",
+      "type": "live",
+      "u": "QWiSfXHSl33kYeTGsy8Xm2wTgXto8n70ai228LJeFPYpRTzQYX2CRBFcWp1V1VfRWlncDuIecCftOamYxPuTrbTasgpe7-idHcHbjOrvl05BqpBUo7G589MA2x2DlY43Rdo5Bx0"
     },
     {
       "id": "c57",
-      "name": "NX| BEIN SPORTS 9",
-      "logo": "http://kinglogo.newtvhd.com/logoo/BEIN%20SPORT/BEINHD.png",
-      "category": "s1_live_1968",
+      "name": "AR| BEIN SPORTS 1 SD",
+      "logo": "http://103.176.90.154/picons/logos/bein/1330457.png",
+      "category": "live_1483",
+      "quality": "HD",
       "type": "live",
-      "variants": [
-        {
-          "quality": "HD",
-          "u": "BC6sX0Uuu1VZyVS4-K9XzjmJ2YCKM7-tI1W0JqEdCoWbLps7JxHWEtNN9Oh-YnsWYzZVQWcn3spddxMEbvYqQyPS37IenM538TmdXC9wbCfEkNVGmugF2OJJK0rtenc"
-        },
-        {
-          "quality": "SD",
-          "u": "ih-STx15SDk35FIN9K9oqlfEvUswEl9Vis2X0zRbEkahJMKUkMQlnpJmVbFRPsM9ahfGvZNFXcXmzLs63_dcgBTJW2aQSVd5CsonXCEMtSOpa98ilCE9QCcBFjGe1y8"
-        }
-      ]
+      "u": "2Cit3KdYbsflnEK9eEXfjXti-aUSy8KKeQE7YrRNefcJNzPsF2xIOt64pmoyN5P_H4wk_V87Qen8jg36lfJvTdONZIDDaW5QPTo19Jqlvhbk9Csd3pyU4l2jgo0R6Rp7PDW1I4Q"
+    },
+    {
+      "id": "c58",
+      "name": "AR| BEIN SPORTS 2 SD",
+      "logo": "http://103.176.90.154/picons/logos/bein/1330458.png",
+      "category": "live_1483",
+      "quality": "HD",
+      "type": "live",
+      "u": "qhPHviExIuCb9ORdMQDbykYQnCRKqxxXcs5wfcfXU-cTMjqT_m5WEm61a7jtj9mTX47b1q_wcsAF4NdJyX7RzpCcFCC0aTFp3CODXXE-SVqTggsQWdY-QzzPuCwl2a1rGm_8kCs"
     },
     {
       "id": "c59",
-      "name": "AR| ALWAN SPORT 1",
-      "logo": "http://kinglogo.newtvhd.com/logoo/AL%20MAJD/ALWAN.png",
-      "category": "s1_live_1984",
+      "name": "AR| BEIN SPORTS 3 SD",
+      "logo": "http://103.176.90.154/picons/logos/bein/1330459.png",
+      "category": "live_1483",
+      "quality": "HD",
       "type": "live",
-      "variants": [
-        {
-          "quality": "HD",
-          "u": "EkFbWaDc3lbrAIKqpqq99SkUByFNgoJHrbdGchUqvI7jt7KtKkSdka_Lkwh8jz28CQMBXOxI7VZg6vCaRetMfH-LP9oMVaOXv-IKseaccEk0YxS2EL4vpnBVxSDCHqI"
-        },
-        {
-          "quality": "SD",
-          "u": "Jmlg8eGH3JXveRrjfRwjZkZ7iU27P9CKXCPEb15HOZi_j7K7FoyH3zI5eHLbz35-evB6NUXpfEZBdG4AuXAXbrhDmXu4RNUn41JqN2_2vMcyDYLUv3gRwlbCcDxUU3g"
-        },
-        {
-          "quality": "4K",
-          "u": "-eWz7HdUwsF8-qF7ya-MrRHcyGumjjdx5KQQpRrA1ipQJGHrOX9KRYod7GOmQf5HmEK6bxrgakV1rtIZ2uWUSwrImVApupW-XV5VhlsrH6xDDZLh7HRxxN7I0Kuh1aU"
-        }
-      ]
+      "u": "roRGytz9wPWchV7AJ6vPs5c3c8RML5It6LNfICOSPEe312m7vdV5iWShWyQvGIaEaTAlO3BmuhxaFD2lgArHHLo_kLeKG4tpe5EOp16oQpfjhcbh18nXS_Sn_5Ve6QBuz8gAxmk"
+    },
+    {
+      "id": "c60",
+      "name": "AR| BEIN SPORTS 4 SD",
+      "logo": "http://103.176.90.154/picons/logos/bein/1330460.png",
+      "category": "live_1483",
+      "quality": "HD",
+      "type": "live",
+      "u": "js7uCcPAkJVg3gvgGtpa-NyJtFs5suh7TAswkZCJSrGTrLwmoljUzvsh93Ub9fOsCNLBSdco5HCbny75iSdx_AKu3Fqj88JSDHwMaMZ5wghXq5ULBbe50qDQAE8g2fnp139k2A8"
+    },
+    {
+      "id": "c61",
+      "name": "AR| BEIN SPORTS 5 SD",
+      "logo": "http://103.176.90.154/picons/logos/bein/1330461.png",
+      "category": "live_1483",
+      "quality": "HD",
+      "type": "live",
+      "u": "5qy3949mS_aawtkEkBoGq2xS-won_BPVp_k0myVTf3wJoq-wr4eoMIvduHvQlsMVhlugceBrFnD1yad_li2lQm-FcqqsuxnS0fMYOkCrD-WQSSvbm0bbidoG4P_Nml0pMj4FjZQ"
     },
     {
       "id": "c62",
-      "name": "AR| ALWAN SPORT 2",
-      "logo": "http://kinglogo.newtvhd.com/logoo/AL%20MAJD/ALWAN.png",
-      "category": "s1_live_1984",
+      "name": "AR| BEIN SPORTS 6 SD",
+      "logo": "http://103.176.90.154/picons/logos/bein/1330462.png",
+      "category": "live_1483",
+      "quality": "HD",
       "type": "live",
-      "variants": [
-        {
-          "quality": "HD",
-          "u": "Rnx798uzcehbO9ysSv6Bh3hxV7IHwV1TQmSjT0iHqrHUosB6aVAnU-lxfhbd8l_eKzgkeUAJXd94DWPoCCAPxRB95JcsP7d_ktQGCrOXjEYX62AQIETJS8zJYRvyc20"
-        },
-        {
-          "quality": "SD",
-          "u": "fNqYZJX8M411oWlLil6TjXJEP5k7LpY6Y36Z3nALNjFL_BzJI387UxzKw3pyRvPethilIbkkbMlX56N7rojO28AKPuxG1E9z9S-il7Qxi4yn5Ln9EThv7om5Nh4I9Sc"
-        },
-        {
-          "quality": "4K",
-          "u": "UciYaT7F3tG-Jnhe8ijsyrykT9VC8CDTXVQjjmqosdtwXYBB01xkymdg-vk4dsOEG346TtJWg7_T1U_M4ZbD04fGqLC6o0YgvffmkaF5OYAftCisR71vulqKNDsXG3I"
-        }
-      ]
+      "u": "gZ2FsxkqK3Yuqb5yfWxiShpYzWsgYFgU9k9-ELD7Uozoo7_NGcwXQ9aVvIm08y497wLRWbvCjo86YR85kxBx5dF0jegvILbVlXR6Kv2zJF3dMMMj0RJNusQGnaBXU9bDS_BrsJw"
+    },
+    {
+      "id": "c63",
+      "name": "AR| BEIN SPORTS 7 SD",
+      "logo": "http://103.176.90.154/picons/logos/bein/1330463.png",
+      "category": "live_1483",
+      "quality": "HD",
+      "type": "live",
+      "u": "6vqRlxcSkx1z6YdXn7mB90bMb1WogaFdUTtWwQyTjWjljnK81JEAePVPkox1MSezg12k-sBXKcEy2ONFdDcdDAGISjwXSG9bFUOCjdDOoqz8q2WAAsz5zlQiXyOdVoHKGz_ZHMM"
+    },
+    {
+      "id": "c64",
+      "name": "AR| BEIN SPORTS 8 SD",
+      "logo": "http://103.176.90.154/picons/logos/bein/1330464.png",
+      "category": "live_1483",
+      "quality": "HD",
+      "type": "live",
+      "u": "c2ZfB3NYk4coW4ga3Fjv2qZOxgGn0Jk5oxRFb5p_KfN0EiH0ixvD_EyIPaNvRWDecJOD2pGLmebyFfVJRWGtKJGSj3Y8rs9udIm2VYMYCcxlyGf-veL09wR2JNadvQqQeRbM13Y"
     },
     {
       "id": "c65",
-      "name": "AR| ALWAN SPORT 3",
-      "logo": "http://kinglogo.newtvhd.com/logoo/AL%20MAJD/ALWAN.png",
-      "category": "s1_live_1984",
+      "name": "AR| BEIN SPORTS 9 SD",
+      "logo": "http://103.176.90.154/picons/logos/bein/1330465.png",
+      "category": "live_1483",
+      "quality": "HD",
       "type": "live",
-      "variants": [
-        {
-          "quality": "HD",
-          "u": "uWCXwZ7h4afnajLlxlQ0SWi5wik48eDPjIM2yXca28K1yfHG7ATJs4bLsVNEeFweMtAOodxJ6hER6ThpALFhEAQe1Eu2qscVYKqURKlOPfXDx-IJ5IdZVLN5RWuxYNE"
-        },
-        {
-          "quality": "SD",
-          "u": "XSQnKeCaa2xH5KMU-EIvI6lOFV1msKCiaabe0evin9JbTpYDg2-x0ce94MxsW10_LrZFZb-wwUxJpIrhljyf-YPAhzBxDXfZxrhuBfu1opV7-4czCeLKN3fr7G-c57U"
-        },
-        {
-          "quality": "4K",
-          "u": "_VZubmQcXy7cZM-SxDtHyiQpuMujEZWpCZoKjSM94paZnT4dGEcus1L4yNQ7mW7XuxJrgkYrXhYRdRNt0QBK1tS31AT65iLI0Hsfcd7F8OKU7XHFrMWBmo9mAD1X5lU"
-        }
-      ]
+      "u": "2LAcNsWZnR6cwHXh9e4bF9QNs5vJwZOh060sRkqR2daqLdZOL2sh6P_k9xKcS7eJXrBjI-muypLdv2jUZ1GouqPTTDCHhKTQxxPDZ8Qz8XA2moaM7TowEa2XL2iFt3izjoUJygQ"
+    },
+    {
+      "id": "c66",
+      "name": "AR| BEIN SPORTS 1 XTRA SD",
+      "logo": "http://103.176.90.154/picons/logos/bein/1330466.png",
+      "category": "live_1483",
+      "quality": "HD",
+      "type": "live",
+      "u": "vIWvZB4XJOHPzmA-sfWMLSf2S7q6Nhu6RF3fMKGk9eusN76Y3f9s5ee6hL1xvDIn_8ObSlx0b7XRJFbs_ykLgoI_bVizfgzbjVYAmBzMPwhb-5C0ntjmZQE5dLz_CFH63IQXruo"
+    },
+    {
+      "id": "c67",
+      "name": "AR| BEIN SPORTS 2 XTRA SD",
+      "logo": "http://103.176.90.154/picons/logos/bein/1330467.png",
+      "category": "live_1483",
+      "quality": "HD",
+      "type": "live",
+      "u": "Upi75jE3G84Wp-KjJ5JMPeYqOXbDHbgyvK5qPpiJd-_z1dkFMxI2JoEvte95xIMLs0GvhYlREsNSShif_zZ6opPeEQPVUo94rt-e3sZgQHLWmYfc4tGv37SlcydLoKNreyqdRPw"
     },
     {
       "id": "c68",
-      "name": "AR| ALWAN SPORT 4",
-      "logo": "http://kinglogo.newtvhd.com/logoo/AL%20MAJD/ALWAN.png",
-      "category": "s1_live_1984",
+      "name": "AR| BEIN SPORTS 3 XTRA SD",
+      "logo": "http://103.176.90.154/picons/logos/bein/1330468.png",
+      "category": "live_1483",
+      "quality": "HD",
       "type": "live",
-      "variants": [
-        {
-          "quality": "HD",
-          "u": "OlV9HOoNfMUWYxXCJqp_EOmn5-Y35Zl_bkW2pFHJg-Jr3zVSQiy17SSJMcSPfRlvK-FHi5pZR5sbBZgskxP37DZ6AAs-2Qdy20sx_uKAmOVwfDtC3EjwhV8R7CNrbbs"
-        },
-        {
-          "quality": "SD",
-          "u": "38Och06PWqgZX21XJAoeokvyMj6qAppbNoPpwubC5oksYVDaGxBXyhJlt9YZuvBvVkvghGLmGJz3Z1MFYGTVq47D7IlYEhe3iIhWAxCsbNc2HivLcQEjoWq_o3bMD_0"
-        },
-        {
-          "quality": "4K",
-          "u": "5clP2YrRP1Jq_ZGj8rBWAeE_ZC-k0uFB5AcewrxROFEvPXBHvwhHSPZeqEgnc222DCXA62JS1nOgnWAkgW2COiOBqXdlVAFYP_eEu5WXFDa5L6I247DLdNDjIYwwnVY"
-        }
-      ]
+      "u": "4zX7bKIEQxnz35ONpGgGjqmMMMX-lFSyf4Y4b9taFQBxJvVpiAhgL6Pv3XDAahCbyU9FG4R2ujeerQQxM5bVl-5grqnG1k5pFPqz7q-duTFXjKKpkATUe_NHDtGh8MrJ9RfH72E"
+    },
+    {
+      "id": "c69",
+      "name": "AR| BEIN SPORTS 1 ENGLISH SD",
+      "logo": "http://103.176.90.154/picons/logos/bein/1330469.png",
+      "category": "live_1483",
+      "quality": "HD",
+      "type": "live",
+      "u": "9szPNKZ1wGKrD0MXrsUxqWMVuqcREIJjozkKnOahn12pB7eUvloyIlpEtdG87rZXL76vQP6WpIjQ3wlYxr3Xbr-Ms7QVY_e-zB2C_NNXBYAWIETqsCz1TfFAbqI2_eaibJQQbgY"
+    },
+    {
+      "id": "c70",
+      "name": "AR| BEIN SPORTS 2 ENGLISH SD",
+      "logo": "http://103.176.90.154/picons/logos/bein/1330470.png",
+      "category": "live_1483",
+      "quality": "HD",
+      "type": "live",
+      "u": "5kub4OWMWgVGsuqCI2xM-rU1G2e2UQKg7h5IuWrwK4QDBQIt2wqgYNdGYJOvAUBUODiGeRtM82PTnjVC7Z0P51Jo7t7taVfIQHfdoP8BJVTqzPnSYZ-lUk_Bp9Q626Ql7Hmfn-8"
     },
     {
       "id": "c71",
-      "name": "AR| ALWAN SPORT 5",
-      "logo": "http://kinglogo.newtvhd.com/logoo/AL%20MAJD/ALWAN.png",
-      "category": "s1_live_1984",
+      "name": "BEIN SPORTS HD",
+      "logo": "http://103.176.90.154/picons/logos/bein/1836256.png",
+      "category": "live_2305",
+      "quality": "HD",
       "type": "live",
-      "variants": [
-        {
-          "quality": "HD",
-          "u": "H6v-otIFr44J28c1wo2xaj8eUP8A8zbtvoVAAP4fVt1VPGq1HNSZ-vDzPFdP-oOQcNVQX09shAxBhsttjCIlcr4dV3dPOYDJ5J5XOXL9vNQ4NNqizqtsZhL3NrA3BZ8"
-        },
-        {
-          "quality": "SD",
-          "u": "go_Jz3dC6zDzTUt3GFZ_6YI0HrNLEV087OVR3HZ3nerKCTiD_qR2HvnENhdWfBuhY40_h_vFfbYkhH0Kbn1MdhW8NCZLFtJWHDnVX68AyPXzNe4AUXdQdlKwYeTIjoo"
-        },
-        {
-          "quality": "4K",
-          "u": "Pn3Ac27d65FBbWfWjMoOm_Afmujf4oY4Vpat_AR5uRD3AKz5iUdIamt1087U8z9jEa3oOeH2IivyCBm5FFOXDnOamNeNIM7Gpz__N4BKzN3hD4eDvxltiyQTcLnqB0k"
-        }
-      ]
+      "u": "Q4VL_2x-sADdbS8Kju5jQWznBoxvA-nw-IA50JUSJCxeo7pU6HHizSJlAZfN_H3B9ptG13VjFhjbjqtYUT6W7l0PuzC5fwBG_fz4GpDF3Z-2HKV4WLmw-kw8EXYyCI-Ka5-dQXg"
+    },
+    {
+      "id": "c72",
+      "name": "BEIN SPORTS NEWS HD",
+      "logo": "http://103.176.90.154/picons/logos/bein/1836255.png",
+      "category": "live_2305",
+      "quality": "HD",
+      "type": "live",
+      "u": "tq8I5KBIpFf6NYXvmvuqQ0sD_6oHLLk3XLkCTDEF-h158R4ap_tkMpg6lqDAdIw3Zawro5ondct57FEllHAuN1a654oWynu5fsMx_qG6nEqXHHt557LK3V7lkwKK5DT8byZfZpU"
+    },
+    {
+      "id": "c73",
+      "name": "NBA HD",
+      "logo": "http://103.176.90.154/picons/logos/bein/1836257.png",
+      "category": "live_2305",
+      "quality": "HD",
+      "type": "live",
+      "u": "zgqcJB5bCdKgQBEoWT-t63G9KUWFjmTjEP7SgaIxNAMIkOr03Brg0hw4wE5vVl6G6KL9XCwburOH2eAgOOKtmi3X2w8n0k8N4m89WoEi1-90GaI5mAo2geDvE0RJaU4H8AE_jyE"
     },
     {
       "id": "c74",
-      "name": "AR| ALWAN SPORT 6",
-      "logo": "http://kinglogo.newtvhd.com/logoo/AL%20MAJD/ALWAN.png",
-      "category": "s1_live_1984",
+      "name": "BEIN SPORTS SD",
+      "logo": "http://103.176.90.154/picons/logos/bein/1836244.png",
+      "category": "live_2305",
+      "quality": "HD",
       "type": "live",
-      "variants": [
-        {
-          "quality": "4K",
-          "u": "jGXNrigzBOGjNOOHIot3Ndru3oVKzlDtF_85430JyWi8jhZuB9wN8CZ1UVsOxUWPE4wSXxSkaguHwllj-y5NRNTsX5S_gKlLpVgY61pQjdDd5SX7ZJdws_auK6CpXvI"
-        }
-      ]
+      "u": "bMoeylcRyG855nL3tJqLyfvk0cSaKzVgZebi1_1pRhJiNVRw5xRieegCO3OJRmY31WdyRT4DxwKUidwd5dOgEG5ME5WBvObA5xwrPqi5Yaqj2-O7Kf65w3G-RF8vVPkdhE8r73o"
     },
     {
-      "id": "c84",
-      "name": "beIN SPORTS FR 1",
-      "logo": "http://kinglogo.newtvhd.com/logoo/BEIN4K/FHD/bein%20sports%201%20FRENSH%20FHD.png",
-      "category": "s1_live_62",
+      "id": "c75",
+      "name": "BEIN SPORTS LOW 1",
+      "logo": "http://103.176.90.154/picons/logos/bein/1836254.png",
+      "category": "live_2305",
+      "quality": "HD",
       "type": "live",
-      "variants": [
-        {
-          "quality": "FHD",
-          "u": "WUrBhjn4R5Egz4_a0g5AybsTq-0zQj_8lwxeWP4Fr_qOlJKohVdqXaot6eFkyzmm0y44yY1OJBVus9VqFxAeEvTIFdjhiXoA83lIiITrP79UFX0Afe8-iMR_giE6VA"
-        }
-      ]
+      "u": "EzkZdh3fY0rBk2Fu0ySQ2qloJ3lgTopgetojaXI3wTCS2zrNmDyuKuTSzWDsOX-U9Pfj1imf2ymb8mPiRyzd2e8G8QugfhQwYsy19vWkICQVwV0tR80cgFYWDGd9xMA6RHvNokg"
     },
     {
-      "id": "c88",
-      "name": "beIN SPORTS EN 2",
-      "logo": "http://kinglogo.newtvhd.com/logoo/BEIN4K/FHD/bein%20sports%202%20ENGLISH%20%20FHD.png",
-      "category": "s1_live_62",
+      "id": "c76",
+      "name": "BEIN SPORTS LOW 2",
+      "logo": "http://103.176.90.154/picons/logos/bein/1836253.png",
+      "category": "live_2305",
+      "quality": "HD",
       "type": "live",
-      "variants": [
-        {
-          "quality": "FHD",
-          "u": "13d04MgInJ8U73iNpW3orKWDekg4dojeaYsTMc78nhbYzHPkDhbAYG2Ggar1Y1O7X6ROXOiHE5NciOQCqbYsBc4hj6v7XXeEh-JHTr6q0Rh3Wj0JCjHT0qRIXxxDnQ"
-        }
-      ]
+      "u": "NVbA0ObGXX9vnehPC7MY2YJySN6F-55t1JmG4ghw4ZC-FePiZpsQZSmL6OETkirliCsbrlqOr8-8n2xRpNdjfgN-IaYqDyjtp6fdEikYpQGwGjqpaHrIcUvY2wrc-piSN-UN20Q"
+    },
+    {
+      "id": "c77",
+      "name": "BEIN SPORTS LOW 3",
+      "logo": "http://103.176.90.154/picons/logos/bein/1836252.png",
+      "category": "live_2305",
+      "quality": "HD",
+      "type": "live",
+      "u": "lml8IGtDoRz7M6Ik_iL2xfGqKnmnX-f1juNWEllAoj7MbI_IEvPMMOJNHihfafyNHPbcwFR-ESLObnwV8QvEbK7I1Nf-IQBqk4M7IydYTD8c7DtSeapXkmTR9ZJi0O88jpLhtSM"
+    },
+    {
+      "id": "c78",
+      "name": "BEIN SPORTS LOW 4",
+      "logo": "http://103.176.90.154/picons/logos/bein/1836251.png",
+      "category": "live_2305",
+      "quality": "HD",
+      "type": "live",
+      "u": "qtfatj00sUQ8tzx4MenPOLnD-uFzqIfDGUocrrlRbVimBuitagH2QKxmFKYg3rJG3x9wcSl8ZMF25zSS7UbLW09fjear_8pnibv2Rx_3XRCotrbip7BpWkzz7UaTzMjyB5sbAsc"
+    },
+    {
+      "id": "c79",
+      "name": "BEIN SPORTS LOW 5",
+      "logo": "http://103.176.90.154/picons/logos/bein/1836250.png",
+      "category": "live_2305",
+      "quality": "HD",
+      "type": "live",
+      "u": "tpeR9Qb1d2Htz4ddNv4p54t93J5jXDaYUh9Tp6CQOMppwjY8qm2DGzW5_K_FoI2dAvArn0Ttc6oR5sJ8RukaX7ZC0YoZbqlqUnrHYUmcMRrfzpg8VxfXQR8vGXJPJ2kyOPZaDy0"
+    },
+    {
+      "id": "c80",
+      "name": "BEIN SPORTS LOW 6",
+      "logo": "http://103.176.90.154/picons/logos/bein/1836249.png",
+      "category": "live_2305",
+      "quality": "HD",
+      "type": "live",
+      "u": "7cUhEFDvh9PWjECuEO2r20ZQASH0LkFcM2IYJmF-_8b7RXqrC0APkLfpawqltZWvLWSqiEoSkcSkfd-Bno5CLadfmIewcLXsGGuPyqzZzcGFFN_pKvmoXHX6kRmmq4GuTQ3cvc0"
+    },
+    {
+      "id": "c81",
+      "name": "BEIN SPORTS LOW 8",
+      "logo": "http://103.176.90.154/picons/logos/bein/1836248.png",
+      "category": "live_2305",
+      "quality": "HD",
+      "type": "live",
+      "u": "_GCtrokMg5Z0ViYnWl0As8cw_Cc9bAmMZoLElmXUQGyjVpyPlgF_KXCsH1Y2ENUppqpndGuLEswB7uvhKm88xfw2A1VFRjD70dk1g5v71CL4wmv5UvynI65p6aN8RB0QUaOQYvo"
+    },
+    {
+      "id": "c82",
+      "name": "BEIN SPORTS LOW 9",
+      "logo": "http://103.176.90.154/picons/logos/bein/1836247.png",
+      "category": "live_2305",
+      "quality": "HD",
+      "type": "live",
+      "u": "fvD5Ic9VU1VEJyZFBQwnTIzxWeJseAJ3gI7U2M0z8w01K1-OINPYvjkjAmd3d5fZzfldEvJd6OV5OTy9b_gBvnJuU9xk62uvMNMSXcRsFVWuoQ6TTklDUIi9pPXa3uDFMvWQxc8"
+    },
+    {
+      "id": "c83",
+      "name": "BEIN SPORTS LOW 7",
+      "logo": "http://103.176.90.154/picons/logos/bein/1836246.png",
+      "category": "live_2305",
+      "quality": "HD",
+      "type": "live",
+      "u": "DoWcZ_CesNFhr1740z2nrb7_IMoA88b6QqtfaM0hwr1SFRM5nupMrZRSoMJIYfAf-9RbC_o9z0cwzs9jS8bVuQOTawjUxvnRPic3SHzfTNzxTfYuI1q4ShA2OGvxfcQY71IZEY8"
     }
   ]
 }
